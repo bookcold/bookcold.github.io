@@ -8,13 +8,22 @@ redirect_from:
 ---
 
 {% include base_path %}
+<center> <h1>Shuhan Yuan</h1> </center>
 
 Education
 ======
-* B.Eng. in Network Engineering, Huaqiao University, 2009
-* M.Eng. in Computer Engineering, Huaqiao University, 2012
-* Visiting Ph.D. Student, University of Arkansas, 2015-2017
-* Ph.D in Computer Engineering, Tongji University, 2017
+* Ph.D., Computer Engineering, Tongji University, 2017
+  * Doctoral Thesis: Massive Text Data Feature Learning and Semantic Understanding
+  * Supervisor: Prof. Yang Xiang
+* Visiting Ph.D. Student, University of Arkansas, Sep.2015--Aug.2017
+  * Supervisor: [Dr. Xintao Wu](http://csce.uark.edu/~xintaowu/)
+* M.Eng., Computer Engineering, Huaqiao University, 2012
+  * Master Thesis: User Behavior Similarity Analysis in Location-based Social Network
+  * Advisor: Prof. Weibin Chen
+* B.Eng., Network Engineering, Huaqiao University, 2009
+
+
+
 
 Work experience
 ======
@@ -47,4 +56,6 @@ Teaching
   
 Service
 ======
-* Currently signed in to 43 different slack teams
+* **Journal Reviewer:** International Journal of Data Science and Analytics (IJDSA), Social Network Analysis and Mining (SNAM), IEEE Transactions on Computational Social Systems (TCSS), IEEE Transactions on Fuzzy Systems (TFS), Journal of Intelligent Information Systems (JIIS), World Wide Web (WWW), Neural Computing and Applications (NCA), IEEE Access.
+* **Conference Program Committee Member:** AAAI-18, AAAI-19, CIKM-17, PAKDD-18, PAKDD-19
+* Editorial Board of Frontiers in Big Data and AI

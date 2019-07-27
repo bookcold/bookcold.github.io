@@ -11,7 +11,7 @@ title                    : "Shuhan Yuan's Homepage"
 title_separator          : "-"
 name                     : "Shuhan Yuan"
 description              : 
-url                      : "https://yuan.shuhan.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : 
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -83,11 +83,11 @@ author:
   name             : "Shuhan Yuan"
   avatar           : "profile.jpg"
   bio              : "Postdoctoral Researcher | Ph.D."
-  location         : 
+  location         : "Fayetteville, AR"
   employer         :
   pubmed           : 
-  googlescholar    : 
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=14J_wuIAAAAJ&hl=en"
+  email            : "sy005 AT uark DOT edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
