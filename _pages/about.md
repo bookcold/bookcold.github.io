@@ -12,4 +12,4 @@ I am currently a postdoctoral researcher at the University of Arkansas, advised 
 
 **Research Interests**: Deep learning and its applications in big data analysis, fraud detection, graph analysis, and natual language processing.
 
-<span style="color:red">**Openings**: I will join the Computer Science Department at the Utah State University as a tenure-track [Assistant Professor](https://cs.usu.edu/people/faculty/yuan-shuhan) in Spring 2020. I am looking for highly-motivated Ph.D. students (fully funded). Please send me your CV if you are interested. [Details]({% post_url hiring%}). </span>
+<span style="color:red">**Openings**: I will join the Computer Science Department at the Utah State University as a tenure-track [Assistant Professor](https://cs.usu.edu/people/faculty/yuan-shuhan) in Spring 2020. I am looking for highly-motivated Ph.D. students (fully funded). Please send me your CV if you are interested. [Details]({% link hiring.md%}). </span>
