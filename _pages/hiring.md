@@ -3,9 +3,6 @@ permalink: /hiring/
 title: "hiring"
 excerpt: "hiring"
 author_profile: true
-redirect_from: 
-  - "/hiring/"
-  - "/hiring.html"
 ---
 
 I am looking for highly-motivated Ph.D. students to work on data mining and machine learning with RA support starting from January or August 2020. Research background in machine learning/statistics/cloud computing are desired.
