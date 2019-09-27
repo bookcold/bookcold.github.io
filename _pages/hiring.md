@@ -4,8 +4,8 @@ title: "hiring"
 excerpt: "This is a page not in th emain menu"
 author_profile: true
 redirect_from: 
-  - "/about/"
-  - "/about.html"
+  - "/npm/"
+  - "/npm.html"
 ---
 
 This is a page not in the menu. You can use markdown in this page.
