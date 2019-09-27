@@ -2,7 +2,7 @@
 title: "CS 6665: Data Mining"
 collection: teaching
 type: "Data Science"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2020-spring-teaching
 venue: "TBD"
 date: "2020-01-01"
 # location: "City, Country"
