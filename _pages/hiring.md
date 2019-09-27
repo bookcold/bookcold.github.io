@@ -1,6 +1,6 @@
 ---
 permalink: /hiring/
-title: "hiring"
+title: "Open Positions"
 excerpt: "hiring"
 author_profile: true
 ---
