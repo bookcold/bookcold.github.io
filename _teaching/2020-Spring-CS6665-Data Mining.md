@@ -9,17 +9,59 @@ date: "2020-01-01"
 ---
 
 <!-- This is a description of a teaching experience. You can use markdown like any other post. -->
-More details comining soon.
+*The information described here has not been finalized yet. This page will be updated frequently.*
 
-Course Material
+## Course Description
+================
+This course will discuss data mining algorithms for analyzing large datasets. Topics include: 
+
+The goal of this class is for students to understand basic and scale data mining algorithms.
+
+## Prerequisites
+- A solid programming skill (Python is preferred)
+- Basic knowledge about probability and statistics
+
+
+
+## Course Material
 ================
 Leskovec, J., Rajaraman, A., & Ullman, J. D. (2014). Mining of massive datasets. Cambridge university press. [Available Online.](http://www.mmds.org/)
 
-<!-- Heading 1
-======
+## Class Schedule
+Comining soon.
 
-Heading 2
-======
 
-Heading 3
-====== -->
+## Grading
+===============
+- Homework (%)
+    - Five or six assignments involving problem solving and programming
+- Team Project (%)
+    - A team project involves up to 3 students over the semester. Team project will be evaluated based on the technical soundness, presentation, and final report.
+- Final Exam (%)
+    - The final exam is closed-books.
+<!-- - Class Attendence (%)
+    - Class attendence is not mandatory, but recommended with bonus score. -->
+
+## Course Topics
+1. Data mining overview
+2. MapReduce and Spark
+3. Frequent itemset mining
+4. Finding similar items
+5. Clustering
+6. Mining data stream
+7. Dimensionality reduction
+8. Recommender systems
+9. Computational advertising
+10. Pagerank
+11. Large-scale machine learning
+12. Anomaly detection
+13. Deep learning
+
+<!-- ## Grading Policy
+
+- Late Submission Policy: Late submissions will be penalized by deducting 10% of the score
+for each day beyond due time.
+- Regrade Request: The regrade request must be submitted by email (to TA and Instructor)
+within one week of distribution of your grade. Any regrade request after one week will
+NOT be considered. -->
+
