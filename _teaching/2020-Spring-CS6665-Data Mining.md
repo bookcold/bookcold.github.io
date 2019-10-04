@@ -12,7 +12,6 @@ date: "2020-01-01"
 *The information described here has not been finalized yet. This page will be updated frequently.*
 
 ## Course Description
-================
 This course will discuss data mining algorithms for analyzing large datasets. Topics include: 
 
 The goal of this class is for students to understand basic and scale data mining algorithms.
@@ -24,7 +23,6 @@ The goal of this class is for students to understand basic and scale data mining
 
 
 ## Course Material
-================
 Leskovec, J., Rajaraman, A., & Ullman, J. D. (2014). Mining of massive datasets. Cambridge university press. [Available Online.](http://www.mmds.org/)
 
 ## Class Schedule
@@ -32,7 +30,6 @@ Comining soon.
 
 
 ## Grading
-===============
 - Homework (%)
     - Five or six assignments involving problem solving and programming
 - Team Project (%)
