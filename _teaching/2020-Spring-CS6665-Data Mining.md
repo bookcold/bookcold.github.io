@@ -1,7 +1,7 @@
 ---
 title: "CS 6665: Data Mining"
 collection: teaching
-type: "Data Science"
+type: "CS 6665"
 permalink: /teaching/2020-spring-teaching/
 venue: "TBD"
 date: "2020-01-01"
