@@ -8,7 +8,7 @@ date: "2020-01-01"
 # location: "City, Country"
 ---
 
-*The information described here has not been finalized yet. This page will be updated frequently.*
+<span style="color:red">The information described here has not been finalized yet. This page will be updated frequently.</span>
 
 ## Course Descriptions
 <!-- This course is about data mining, which aims at finding useful patterns in large data sets. However, in the era of big data, data is so large to fit in main memory.  -->
