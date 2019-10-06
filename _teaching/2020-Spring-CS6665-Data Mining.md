@@ -4,7 +4,7 @@ collection: teaching
 type: "CS 6665"
 permalink: /teaching/2020-spring-teaching/
 venue: "TBD"
-date: "2020-01-01"
+date: "Spring 2020"
 # location: "City, Country"
 ---
 
