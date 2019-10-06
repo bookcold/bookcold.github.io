@@ -19,24 +19,23 @@ Data mining aims at finding useful patterns in large data sets. This course will
 - Basic probability and statistics
 - Basic linear algebra
 
-
-
 ## Course Material
 Leskovec, J., Rajaraman, A., & Ullman, J. D. (2014). Mining of massive datasets. Cambridge university press. [Available Online.](http://www.mmds.org/)
 
 ## Class Schedule
-Comining soon.
+Coming soon.
 
 
 ## Grading
 - Homework (%)
     - Five or six assignments involving problem-solving and programming
 - Team Project (%)
-    - A team project involves up to 3 students over the semester. The team project will be evaluated based on the technical soundness, presentation, and final report.
+    - Students are required to participate in one [Kaggle competition](https://www.kaggle.com/competitions) as a team (up to 3 students).
+    - The team project will be evaluated based on the technical soundness, presentation, and final report.
 - Final Exam (%)
     <!-- - The final exam is closed-books. -->
     
-<!-- - Class Attendence (%)
+<!-- - Class Attendance (%)
     - Class attendance is not mandatory but recommended with a bonus score. -->
 
 ## Course Topics
