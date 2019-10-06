@@ -39,7 +39,7 @@ Work experience
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+    {% include archive-publication-cv.html %}
   {% endfor %}</ul>
   
 <!-- Talks
