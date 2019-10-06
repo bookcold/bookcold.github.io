@@ -4,7 +4,7 @@ collection: teaching
 type: "Spring 2020"
 permalink: /teaching/2020-spring-teaching/
 venue: "TBD"
-date: "2020-01"
+# date: "2020-01"
 # location: "City, Country"
 ---
 
