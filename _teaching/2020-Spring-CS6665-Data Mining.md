@@ -1,10 +1,10 @@
 ---
 title: "CS 6665: Data Mining"
 collection: teaching
-type: "CS 6665"
+type: "Spring 2020"
 permalink: /teaching/2020-spring-teaching/
 venue: "TBD"
-date: "Spring 2020"
+date: "2020-01"
 # location: "City, Country"
 ---
 
