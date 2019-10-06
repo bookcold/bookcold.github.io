@@ -11,14 +11,14 @@ date: "2020-01-01"
 <!-- This is a description of a teaching experience. You can use markdown like any other post. -->
 *The information described here has not been finalized yet. This page will be updated frequently.*
 
-## Course Description
-This course will discuss data mining algorithms for analyzing large datasets. Topics include: 
-
-The goal of this class is for students to understand basic and scale data mining algorithms.
+## Course Descriptions
+<!-- This course is about data mining, which aims at finding useful patterns in large data sets. However, in the era of big data, data is so large to fit in main memory.  -->
+Data mining aims at finding useful patterns in large data sets. This course will discuss data mining algorithms for analyzing large amounts of data, including association rules mining, finding similar items, clustering, data stream mining, recommender systems, how search engines rank pages, and recent techniques for large scale machine learning. The goal of this class is for students to understand basic and scale data mining algorithms.
 
 ## Prerequisites
 - A solid programming skill (Python is preferred)
-- Basic knowledge about probability and statistics
+- Basic probability and statistics
+- Basic linear algebra
 
 
 
@@ -31,13 +31,14 @@ Comining soon.
 
 ## Grading
 - Homework (%)
-    - Five or six assignments involving problem solving and programming
+    - Five or six assignments involving problem-solving and programming
 - Team Project (%)
-    - A team project involves up to 3 students over the semester. Team project will be evaluated based on the technical soundness, presentation, and final report.
+    - A team project involves up to 3 students over the semester. The team project will be evaluated based on the technical soundness, presentation, and final report.
 - Final Exam (%)
-    - The final exam is closed-books.
+    <!-- - The final exam is closed-books. -->
+    
 <!-- - Class Attendence (%)
-    - Class attendence is not mandatory, but recommended with bonus score. -->
+    - Class attendance is not mandatory but recommended with a bonus score. -->
 
 ## Course Topics
 1. Data mining overview
