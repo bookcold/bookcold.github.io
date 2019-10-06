@@ -12,4 +12,4 @@ I am currently a postdoctoral researcher at the University of Arkansas, advised 
 
 **Research Interests**: Deep learning and its applications in big data analysis, fraud detection, graph analysis, and natual language processing.
 
-<span style="color:red">**Openings**: I will join the [Computer Science Department](https://cs.usu.edu) at the Utah State University as a tenure-track Assistant Professor in Spring 2020. I am looking for highly-motivated Ph.D. students (fully funded). Please send me your CV if you are interested. [Details]({% link _pages/hiring.md%}). </span>
+<span style="color:red">**Openings**: I will join the [Computer Science Department](https://cs.usu.edu) at the Utah State University as a tenure-track Assistant Professor in Spring 2020. I am looking for highly-motivated Ph.D. students (fully funded) and visting Ph.D. students to work with me in the areas of data mining and machine learning. Please send me your CV if you are interested. [Details]({% link _pages/hiring.md%}). </span>
