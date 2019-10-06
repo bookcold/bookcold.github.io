@@ -26,9 +26,8 @@
           alt="">
       </div>
     {% endif %}
-    <h3 class="" itemprop="headline" style="font-weight: normal; margin: 0%;">
-    {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p> {% endif %}
-    </h3>
+    {% if post.venue%}{{ post.citation }}{% endif %}
+
     </li>
  </article>
 </div>

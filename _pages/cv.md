@@ -19,7 +19,7 @@ Education
   * Supervisor: [Dr. Xintao Wu](http://csce.uark.edu/~xintaowu/)
 * M.Eng., Computer Engineering, Huaqiao University, 2012
   * Master Thesis: User Behavior Similarity Analysis in Location-based Social Network
-  * Advisor: Prof. Weibin Chen
+  * Supervisor: Prof. Weibin Chen
 * B.Eng., Network Engineering, Huaqiao University, 2009
 
 
