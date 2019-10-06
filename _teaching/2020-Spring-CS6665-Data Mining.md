@@ -2,13 +2,12 @@
 title: "CS 6665: Data Mining"
 collection: teaching
 type: "Data Science"
-permalink: /teaching/2020-spring-teaching
+permalink: /teaching/2020-spring-teaching/
 venue: "TBD"
 date: "2020-01-01"
 # location: "City, Country"
 ---
 
-<!-- This is a description of a teaching experience. You can use markdown like any other post. -->
 *The information described here has not been finalized yet. This page will be updated frequently.*
 
 ## Course Descriptions
