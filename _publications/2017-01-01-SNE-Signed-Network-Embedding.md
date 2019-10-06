@@ -1,7 +1,7 @@
 ---
 title: "SNE: Signed Network Embedding"
 collection: publications
-permalink: /publication/2017-01-01-SNE-Signed-Network-Embedding
+permalink: /publication/2017-01-01-SNE-Signed-Network-Embedding/
 date: 2017-01-01
 venue: 'In the proceedings of Pacific-Asia conference on knowledge discovery and data mining'
 citation: ' Shuhan Yuan,  Xintao Wu,  Yang Xiang, &quot;SNE: Signed Network Embedding.&quot; In the proceedings of Pacific-Asia conference on knowledge discovery and data mining, 2017.'
