@@ -51,7 +51,7 @@ Publications
 Teaching
 ======
   <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
+    {% include archive-teaching-cv.html %}
   {% endfor %}</ul>
   
 Service
