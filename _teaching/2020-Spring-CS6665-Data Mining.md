@@ -30,7 +30,7 @@ Coming soon.
 - Homework (%)
     - Five or six assignments involving problem-solving and programming
 - Team Project (%)
-    - Students are required to participate in one [Kaggle competition](https://www.kaggle.com/competitions) as a team (up to 3 students).
+    - Students are required to participate in one [Kaggle competition](https://www.kaggle.com/competitions){:target="_blank"} as a team (up to 3 students).
     - The team project will be evaluated based on the technical soundness, presentation, and final report.
 - Final Exam (%)
     <!-- - The final exam is closed-books. -->
