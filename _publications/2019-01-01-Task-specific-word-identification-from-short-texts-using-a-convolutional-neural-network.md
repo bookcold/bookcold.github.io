@@ -1,7 +1,7 @@
 ---
 title: "Task-specific word identification from short texts using a convolutional neural network"
 collection: publications
-permalink: /publication/2019-01-01-Task-specific-word-identification-from-short-texts-using-a-convolutional-neural-network
+permalink: /publication/2019-01-01-Task-specific-word-identification-from-short-texts-using-a-convolutional-neural-network/
 date: 2019-01-01
 venue: 'Intelligent Data Analysis'
 paperurl: 'https://content.iospress.com/articles/intelligent-data-analysis/ida173413'

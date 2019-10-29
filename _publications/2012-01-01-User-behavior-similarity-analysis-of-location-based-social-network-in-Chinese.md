@@ -1,7 +1,7 @@
 ---
 title: "User behavior similarity analysis of location based social network (in Chinese)"
 collection: publications
-permalink: /publication/2012-01-01-User-behavior-similarity-analysis-of-location-based-social-network-in-Chinese
+permalink: /publication/2012-01-01-User-behavior-similarity-analysis-of-location-based-social-network-in-Chinese/
 date: 2012-01-01
 venue: 'Journal of Computer Applications'
 citation: ' Shuhan Yuan,  Weibin Chen,  Shunkai Fu, &quot;User behavior similarity analysis of location based social network (in Chinese).&quot; Journal of Computer Applications, 2012.'
