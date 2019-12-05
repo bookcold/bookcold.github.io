@@ -3,7 +3,7 @@ title: "CS 6665: Data Mining"
 collection: teaching
 type: "Spring 2020"
 permalink: /teaching/2020-spring-teaching/
-venue: "TBD"
+venue: "1:30 pm to 2:45 pm on TR in GEOL 302"
 # date: "2020-01"
 # location: "City, Country"
 ---
@@ -27,12 +27,12 @@ Coming soon.
 
 
 ## Grading
-- Homework (%)
-    - Five or six assignments involving problem-solving and programming
-- Team Project (%)
+- Homework (30%)
+    - Six assignments involving problem-solving and programming
+- Team Project (30%)
     - Students are required to participate in one [Kaggle competition](https://www.kaggle.com/competitions){:target="_blank"} as a team (up to 3 students).
     - The team project will be evaluated based on the technical soundness, presentation, and final report.
-- Final Exam (%)
+- Final Exam (40%)
     <!-- - The final exam is closed-books. -->
     
 <!-- - Class Attendance (%)
