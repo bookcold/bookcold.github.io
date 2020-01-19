@@ -24,7 +24,7 @@ Leskovec, J., Rajaraman, A., & Ullman, J. D. (2014). Mining of massive datasets.
 
 ## Class Schedule
 | Date   | Topic                       | Reading         |
-|--------|-----------------------------|-----------------|
+|:-------|:---------------------------:|----------------:|
 | Jan 6  | Introduction to Data Mining | MMDS CH.1       |
 | Jan 9  | Map-Reduce                  | MMDS CH.2       |
 | Jan 14 | Introduction to Spark       | MMDS CH.2       |
