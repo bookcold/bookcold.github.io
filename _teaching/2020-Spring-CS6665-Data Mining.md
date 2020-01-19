@@ -23,14 +23,52 @@ Data mining aims at finding useful patterns in large data sets. This course will
 Leskovec, J., Rajaraman, A., & Ullman, J. D. (2014). Mining of massive datasets. Cambridge university press. [Available Online.](http://www.mmds.org/)
 
 ## Class Schedule
-| Date   | Topic                       | Reading         |
+<table class="tg">
+  <tr>
+    <th class="tg-0pky">Date</th>
+    <th class="tg-0pky">Topic</th>
+    <th class="tg-0pky">Reading</th>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Jan 6</td>
+    <td class="tg-0pky">Introduction to Data Mining</td>
+    <td class="tg-0pky">MMDS CH.1</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Jan 9</td>
+    <td class="tg-0pky">Map-Reduce</td>
+    <td class="tg-0pky">MMDS CH.2</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Jan 14</td>
+    <td class="tg-0pky">Introduction to Spark</td>
+    <td class="tg-0pky">MMDS CH.2</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Jan 16</td>
+    <td class="tg-0pky">Frequent Itemsets Mining</td>
+    <td class="tg-0pky">MMDS CH.6.1-6.4</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Jan 21</td>
+    <td class="tg-0pky">Locality-Sensitive Hashing</td>
+    <td class="tg-0pky">MMDS CH.3.1-3.4</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+</table>
+
+<!-- | Date   | Topic                       | Reading         |
 |--------|-----------------------------|-----------------|
 | Jan 6  | Introduction to Data Mining | MMDS CH.1       |
 | Jan 9  | Map-Reduce                  | MMDS CH.2       |
 | Jan 14 | Introduction to Spark       | MMDS CH.2       |
 | Jan 16 | Frequent Itemsets Mining    | MMDS CH.6.1-6.4 |
 | Jan 21 | Locality-Sensitive Hashing  | MMDS CH.3.1-3.4 |
-| Jan 23 |                             |                 |
+| Jan 23 |                             |                 | -->
 
 
 ## Grading
