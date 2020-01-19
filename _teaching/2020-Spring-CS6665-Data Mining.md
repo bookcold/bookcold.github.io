@@ -23,7 +23,7 @@ Data mining aims at finding useful patterns in large data sets. This course will
 Leskovec, J., Rajaraman, A., & Ullman, J. D. (2014). Mining of massive datasets. Cambridge university press. [Available Online.](http://www.mmds.org/)
 
 ## Class Schedule
-<style type="text/css">
+<!-- <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
@@ -65,16 +65,16 @@ Leskovec, J., Rajaraman, A., & Ullman, J. D. (2014). Mining of massive datasets.
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
-</table>
+</table> -->
 
-<!-- | Date   | Topic                       | Reading         |
+| Date   | Topic                       | Reading         |
 |--------|-----------------------------|-----------------|
 | Jan 6  | Introduction to Data Mining | MMDS CH.1       |
 | Jan 9  | Map-Reduce                  | MMDS CH.2       |
 | Jan 14 | Introduction to Spark       | MMDS CH.2       |
 | Jan 16 | Frequent Itemsets Mining    | MMDS CH.6.1-6.4 |
 | Jan 21 | Locality-Sensitive Hashing  | MMDS CH.3.1-3.4 |
-| Jan 23 |                             |                 | -->
+| Jan 23 |                             |                 |
 
 
 ## Grading
