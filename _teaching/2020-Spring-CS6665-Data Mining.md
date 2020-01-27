@@ -32,7 +32,7 @@ Leskovec, J., Rajaraman, A., & Ullman, J. D. (2014). Mining of massive datasets.
 | Jan 16 | Frequent Itemsets Mining    | MMDS CH.6.1-6.4 |
 | Jan 21 | Locality-Sensitive Hashing  | MMDS CH.3.1-3.4 |
 | Jan 23 | Locality-Sensitive Hashing  | MMDS CH.3.5-3.6 |
-| Jan 28 | Locality-Sensitive Hashing  | MMDS CH.7.1-7.4 |
+| Jan 28 | Clustering                  | MMDS CH.7.1-7.4 |
 
 
 ## Grading
