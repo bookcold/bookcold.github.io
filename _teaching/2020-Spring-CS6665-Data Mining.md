@@ -24,15 +24,18 @@ Leskovec, J., Rajaraman, A., & Ullman, J. D. (2014). Mining of massive datasets.
 
 ## Class Schedule
 
-| Date   | Topic                       | Reading         |
-|--------|-----------------------------|-----------------|
-| Jan 6  | Introduction to Data Mining | MMDS CH.1       |
-| Jan 9  | Map-Reduce                  | MMDS CH.2       |
-| Jan 14 | Introduction to Spark       | MMDS CH.2       |
-| Jan 16 | Frequent Itemsets Mining    | MMDS CH.6.1-6.4 |
-| Jan 21 | Locality-Sensitive Hashing  | MMDS CH.3.1-3.4 |
-| Jan 23 | Locality-Sensitive Hashing  | MMDS CH.3.5-3.6 |
-| Jan 28 | Clustering                  | MMDS CH.7.1-7.4 |
+| Date   | Topic                       | Reading           |
+|--------|-----------------------------|-------------------|
+| Jan 6  | Introduction to Data Mining | MMDS CH.1         |
+| Jan 9  | Map-Reduce                  | MMDS CH.2         |
+| Jan 14 | Introduction to Spark       | MMDS CH.2         |
+| Jan 16 | Frequent Itemsets Mining    | MMDS CH.6.1-6.4   |
+| Jan 21 | Locality-Sensitive Hashing  | MMDS CH.3.1-3.4   |
+| Jan 23 | Locality-Sensitive Hashing  | MMDS CH.3.5-3.6   |
+| Jan 28 | Clustering                  | MMDS CH.7.1-7.4   |
+| Jan 30 | Clustering                  | MMDS CH.7.1-7.4   |
+| Feb 4  | KNN & Naive Bayes           | MMDS CH.12.1-12.7 |
+| Feb 6  | Decision Tree               | MMDS CH.12.1-12.7 |
 
 
 ## Grading
