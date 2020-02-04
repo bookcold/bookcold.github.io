@@ -34,8 +34,8 @@ Leskovec, J., Rajaraman, A., & Ullman, J. D. (2014). Mining of massive datasets.
 | Jan 23 | Locality-Sensitive Hashing  | MMDS CH.3.5-3.6   |
 | Jan 28 | Clustering                  | MMDS CH.7.1-7.4   |
 | Jan 30 | Clustering                  | MMDS CH.7.1-7.4   |
-| Feb 4  | KNN & Naive Bayes           | MMDS CH.12.1-12.7 |
-| Feb 6  | Decision Tree               | MMDS CH.12.1-12.7 |
+| Feb 4  | KNN & Naive Bayes           | MMDS CH.12.1,12.4 |
+| Feb 6  | Decision Tree               | MMDS CH.12.5      |
 
 
 ## Grading
