@@ -36,6 +36,8 @@ Leskovec, J., Rajaraman, A., & Ullman, J. D. (2014). Mining of massive datasets.
 | Jan 30 | Clustering                  | MMDS CH.7.1-7.4   |
 | Feb 4  | KNN & Naive Bayes           | MMDS CH.12.1,12.4 |
 | Feb 6  | Decision Tree               | MMDS CH.12.5      |
+| Feb 11 | Logistic Regression         | MMDS CH.12.5      |
+| Feb 13 | SVM                         | MMDS CH.12.5      |
 
 
 ## Grading
