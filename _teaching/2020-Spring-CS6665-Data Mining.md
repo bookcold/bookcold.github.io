@@ -37,7 +37,10 @@ Leskovec, J., Rajaraman, A., & Ullman, J. D. (2014). Mining of massive datasets.
 | Feb 4  | KNN & Naive Bayes           | MMDS CH.12.1,12.4 |
 | Feb 6  | Decision Tree               | MMDS CH.12.5      |
 | Feb 11 | Logistic Regression         | MMDS CH.12.2      |
-| Feb 13 | SVM                         | MMDS CH.12.3      |
+| Feb 13 | Logistic Regression         | MMDS CH.12.3      |
+| Feb 18 | SVM                         | MMDS CH.12.3      |
+| Feb 20 | Mining Data Streams         | MMDS CH.4.1-4.3   |
+| Feb 25 | Mining Data Streams         | MMDS CH.4.4-4.7   |
 
 
 ## Grading
