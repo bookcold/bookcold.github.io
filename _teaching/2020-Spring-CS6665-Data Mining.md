@@ -41,6 +41,11 @@ Leskovec, J., Rajaraman, A., & Ullman, J. D. (2014). Mining of massive datasets.
 | Feb 18 | SVM                         | MMDS CH.12.3      |
 | Feb 20 | Mining Data Streams         | MMDS CH.4.1-4.3   |
 | Feb 25 | Mining Data Streams         | MMDS CH.4.4-4.7   |
+| Feb 27 | Course Project Proposal Presentation         |  |
+| Mar 3  | Spring Break                |                   |
+| Mar 5  | Spring Break                |                   |
+| Mar 10 | PageRank                    | MMDS CH.5.1-5.2   |
+| Mar 12 | Dimensionality Reduction    | MMDS CH.11.1-11.3 |
 
 
 ## Grading
