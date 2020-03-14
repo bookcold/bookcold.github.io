@@ -77,7 +77,7 @@ Leskovec, J., Rajaraman, A., & Ullman, J. D. (2014). Mining of massive datasets.
 8. Recommender systems
 9. Computational advertising
 10. Pagerank
-11. Large-scale machine learning
+11. Machine learning
 12. Anomaly detection
 13. Deep learning
 
