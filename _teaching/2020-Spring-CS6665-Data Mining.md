@@ -46,6 +46,12 @@ Leskovec, J., Rajaraman, A., & Ullman, J. D. (2014). Mining of massive datasets.
 | Mar 5  | Spring Break                |                   |
 | Mar 10 | PageRank                    | MMDS CH.5.1-5.2   |
 | Mar 12 | Dimensionality Reduction    | MMDS CH.11.1-11.3 |
+| Mar 17 | Cancelled                   |                   |
+| Mar 19 | Recommender Systems         | MMDS CH.9.1-9.3   |
+| Mar 24 | Recommender Systems         | MMDS CH.9.4-9.5   |
+| Mar 26 | Deep Learning               | MMDS CH.13        |
+| Mar 31 | Deep Learning               | MMDS CH.13        |
+| Apr 2  | Deep Learning               | MMDS CH.13        |
 
 
 ## Grading
