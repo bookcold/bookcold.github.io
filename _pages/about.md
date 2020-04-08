@@ -12,4 +12,4 @@ I am a tenure-track assistant professor at the Computer Science Department, Utah
 
 **Research Interests**: Deep learning and its applications in big data analysis, fraud detection, graph analysis, and natural language processing.
 
-<span style="color:red">**Openings**: I am looking for highly-motivated Ph.D. students (fully funded) and visiting Ph.D. students to work with me on data mining and machine learning. Please send me your CV if you are interested. [Details]({% link _pages/hiring.md%}). </span>
+<!-- <span style="color:red">**Openings**: I am looking for highly-motivated Ph.D. students (fully funded) and visiting Ph.D. students to work with me on data mining and machine learning. Please send me your CV if you are interested. [Details]({% link _pages/hiring.md%}). </span> -->
