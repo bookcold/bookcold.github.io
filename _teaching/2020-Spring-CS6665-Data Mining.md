@@ -8,10 +8,9 @@ venue: "1:30 pm to 2:45 pm on TR in GEOL 302"
 # location: "City, Country"
 ---
 
-*The information described here has not been finalized yet. This page will be updated frequently.*
+<!-- *The information described here has not been finalized yet. This page will be updated frequently.* -->
 
 ## Course Descriptions
-<!-- This course is about data mining, which aims at finding useful patterns in large data sets. However, in the era of big data, data is so large to fit in main memory.  -->
 Data mining aims at finding useful patterns in large data sets. This course will discuss data mining algorithms for analyzing large amounts of data, including association rules mining, finding similar items, clustering, data stream mining, recommender systems, how search engines rank pages, and recent techniques for large scale machine learning. The goal of this class is for students to understand basic and scale data mining algorithms.
 
 ## Prerequisites
