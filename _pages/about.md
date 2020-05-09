@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a tenure-track assistant professor at the Computer Science Department, Utah State University. Prior to join USU, I was a postdoctoral researcher at the University of Arkansas, advised by Dr. Xintao Wu. I received my Ph.D. degree in Computer Engineering at Tongji University, China, advised by Prof. Yang Xiang. During my Ph.D. study, I was a visiting Ph.D. student at the University of Arkansas for two years. Before that, I got my bachelor and master degree from Huaqiao University, China. 
+I am a tenure-track assistant professor at the Computer Science Department, Utah State University. Prior to join USU, I was a postdoctoral researcher at the University of Arkansas, advised by Dr. Xintao Wu. I received my Ph.D. degree in Computer Science at Tongji University, China, advised by Prof. Yang Xiang. During my Ph.D. study, I was a visiting Ph.D. student at the University of Arkansas for two years. Before that, I got my bachelor and master degree from Huaqiao University, China. 
 
 **Research Interests**: Deep learning and its applications in big data analysis, fraud detection, graph analysis, and natural language processing.
 

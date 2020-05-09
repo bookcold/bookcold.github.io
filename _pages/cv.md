@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D., Computer Engineering, Tongji University, 2017
+* Ph.D., Computer Science, Tongji University, 2017
   * Doctoral Thesis: Massive Text Data Feature Learning and Semantic Understanding
   * Supervisor: Prof. Yang Xiang
 * Visiting Ph.D. Student, University of Arkansas, Sep.2015--Aug.2017
