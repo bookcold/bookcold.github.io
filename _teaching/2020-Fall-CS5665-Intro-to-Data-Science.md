@@ -20,15 +20,15 @@ Data science is an inter-disciplinary field that uses scientific methods, proces
 ## Prerequisites
 - A solid Python programming skill
 
-⋅⋅⋅All class assignments will be in Python. 
+    All class assignments will be in Python. 
 
 - Basic probability and statistics
 
-⋅⋅⋅Understand basics of probabilities, gaussian distributions, mean, standard deviation, etc.
+    Understand basics of probabilities, gaussian distributions, mean, standard deviation, etc.
 
 - Basic calculus, linear algebra
 
-⋅⋅⋅Be comfortable taking derivatives and understanding matrix/vector notation and operations. (e.g., matrix multiplication).
+    Be comfortable taking derivatives and understanding matrix/vector notation and operations. (e.g., matrix multiplication).
 
 ## Course Material
 - Aston Zhang, Zachary C. Lipton, Mu Li and Alexander J. Smola. (2020). Dive into Deep Learning. [Available Online.](https://d2l.ai)
@@ -44,7 +44,7 @@ Data science is an inter-disciplinary field that uses scientific methods, proces
 ## Attendance
 - Attendance is not mandatory if we have the in-person class next semester
 
-⋅⋅⋅Stay home when you are ill, even with mild symptoms. 
+    Stay home when you are ill, even with mild symptoms. 
 
 ## Class Schedule
 
