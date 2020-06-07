@@ -12,7 +12,7 @@ venue: "1:30 pm to 2:45 pm on TR in Huntsman Hall 380"
 *The information described here has not been finalized yet. This page will be updated frequently.*
 
 ## Course Descriptions
-Data science is an inter-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from many structural and unstructured data. Data science is related to data mining, deep learning and big data [link](https://en.wikipedia.org/wiki/Data_science). In recent years, deep learning approaches have obtained very high performance on various data analysis tasks. This course focuses on introducing the basic deep learning approaches. The goal of this course is for students to learn how to use deep learning for solving real-world data analysis problems, especially in the fields of computer vision and natural language processing.
+Data science is an inter-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from many structural and unstructured data. Data science is related to data mining, deep learning and big data <sup>\[[link](https://en.wikipedia.org/wiki/Data_science)\]</sup>. In recent years, deep learning approaches have obtained very high performance on various data analysis tasks. This course focuses on introducing the basic deep learning approaches. The goal of this course is for students to learn how to use deep learning for solving real-world data analysis problems, especially in the fields of computer vision and natural language processing.
 
 **Topics include:** Linear Regression, Logistic Regression, Feed-forward Neural Network, Convolutional Neural Network, Recurrent Neural Network, Transformers, Generative Adversarial Networks.
 
