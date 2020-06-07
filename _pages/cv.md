@@ -18,13 +18,10 @@ Education
 * B.Eng., Network Engineering, Huaqiao University, 2009
 
 
-
-
 Work experience
 ======
+* Tenure-track Assistant Professor, Utah State University, 2020-present
 * Postdoctoral Researcher, University of Arkansas, 2018-2019 
-
-  <!-- * Supervisor: [Dr. Xintao Wu](http://csce.uark.edu/~xintaowu/) -->
   
 
 Publications
