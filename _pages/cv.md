@@ -13,13 +13,8 @@ redirect_from:
 Education
 ======
 * Ph.D., Computer Science, Tongji University, 2017
-  <!-- * Doctoral Thesis: Massive Text Data Feature Learning and Semantic Understanding
-  * Supervisor: Prof. Yang Xiang -->
 * Visiting Ph.D. Student, University of Arkansas, Sep.2015--Aug.2017
-  <!-- * Supervisor: [Dr. Xintao Wu](http://csce.uark.edu/~xintaowu/) -->
 * M.Eng., Computer Engineering, Huaqiao University, 2012
-  <!-- * Master Thesis: User Behavior Similarity Analysis in Location-based Social Network
-  * Supervisor: Prof. Weibin Chen -->
 * B.Eng., Network Engineering, Huaqiao University, 2009
 
 
@@ -28,6 +23,7 @@ Education
 Work experience
 ======
 * Postdoctoral Researcher, University of Arkansas, 2018-2019 
+
   <!-- * Supervisor: [Dr. Xintao Wu](http://csce.uark.edu/~xintaowu/) -->
   
 
