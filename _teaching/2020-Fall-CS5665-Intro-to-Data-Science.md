@@ -31,6 +31,9 @@ Data science is an inter-disciplinary field that uses scientific methods, proces
 - Aston Zhang, Zachary C. Lipton, Mu Li and Alexander J. Smola. (2020). Dive into Deep Learning. [Available Online.](https://d2l.ai)
 - Ian Goodfellow, Yoshua Bengio and Aaron Courville. (2016). Deep Learning. [Available Online.](https://www.deeplearningbook.org/)
 
+The following textbooks/websites are useful as additional reference:
+- Michael Nielsen. Neural Networks and Deep Learning. [Available Online.](http://neuralnetworksanddeeplearning.com/)
+
 
 ## Grading
 - Homework (80%)
