@@ -3,7 +3,7 @@ title: "CS 5665: Introduction to Data Science"
 collection: teaching
 type: "Fall 2020"
 permalink: /teaching/2020-fall-teaching/
-venue: "1:30 pm to 2:45 pm on TR in Huntsman Hall 380"
+venue: "1:30 pm to 2:45 pm on TR Web Broadcast"
 # Huntsman Hall 380
 # date: "2020-01"
 # location: "City, Country"
@@ -33,14 +33,13 @@ Data science is an inter-disciplinary field that uses scientific methods, proces
 
 
 ## Grading
-- Homework
-    - Six to eight programming assignments 
-- Final Exam
+- Homework (80%)
+    - Eight programming assignments 
+- Final Exam (20%)
 - Bonus
 
 ## Attendance
-- Attendance is not mandatory if we have the in-person class next semester
-    - Stay home when you are ill, even with mild symptoms. 
+- Attendance is encouraged but not mandatory
 
 ## Class Schedule
 
