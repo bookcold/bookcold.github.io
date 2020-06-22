@@ -3,7 +3,7 @@ title: "CS 5665: Introduction to Data Science"
 collection: teaching
 type: "Fall 2020"
 permalink: /teaching/2020-fall-teaching/
-venue: "1:30 pm to 2:45 pm on TR Web Broadcast"
+venue: "1:30 pm to 2:45 pm on TR via WebBroadcast"
 # Huntsman Hall 380
 # date: "2020-01"
 # location: "City, Country"
