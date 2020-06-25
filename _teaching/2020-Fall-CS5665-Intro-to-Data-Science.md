@@ -36,8 +36,11 @@ The following textbooks/websites are useful as additional reference:
 
 
 ## Grading
-- Homework (80%)
-    - Eight programming assignments 
+- Homework (around 60%)
+    - Seven programming assignments 
+- Course Project (around 20%)
+    - Students do course projects solo
+    - An online poster session will be hosted
 - Final Exam (20%)
 - Bonus
 
