@@ -33,6 +33,8 @@ Data science is an inter-disciplinary field that uses scientific methods, proces
 
 The following textbooks/websites are useful as additional reference:
 - Michael Nielsen. Neural Networks and Deep Learning. [Available Online.](http://neuralnetworksanddeeplearning.com/)
+- Deisenroth, Marc Peter, A. Aldo Faisal, and Cheng Soon Ong. (2020). Mathematics for machine learning. [Available Online.](https://mml-book.github.io/)
+    - Chapters 5, 6 7 are useful to understand vector calculus and continuous optimization
 
 
 ## Grading
