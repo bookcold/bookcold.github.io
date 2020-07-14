@@ -32,6 +32,7 @@ Data science is an inter-disciplinary field that uses scientific methods, proces
 - Ian Goodfellow, Yoshua Bengio and Aaron Courville. (2016). Deep Learning. [Available Online.](https://www.deeplearningbook.org/)
 
 The following textbooks/websites are useful as additional reference:
+-  Eli Stevens and Luca Antiga. (2020). Deep Learning with PyTorch. [Available Online.](https://pytorch.org/deep-learning-with-pytorch)
 - Michael Nielsen. Neural Networks and Deep Learning. [Available Online.](http://neuralnetworksanddeeplearning.com/)
 - Deisenroth, Marc Peter, A. Aldo Faisal, and Cheng Soon Ong. (2020). Mathematics for machine learning. [Available Online.](https://mml-book.github.io/)
     - Chapters 5, 6 7 are useful to understand vector calculus and continuous optimization
