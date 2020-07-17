@@ -16,9 +16,9 @@
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <li>
     <!-- <h3 class="archive__item-title" itemprop="headline"> -->
-      <a >{{ title }} {% if post.file%}[PDF]{% endif %}</a>
+      <a >{{ title }} </a>
     <!-- </h3> -->
-    {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p> {% endif %}
+    {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }} {% if post.file%}[PDF]{% endif %}</p> {% endif %}
     </li>
  </article>
 </div>
