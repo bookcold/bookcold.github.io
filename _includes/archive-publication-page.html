@@ -18,7 +18,7 @@
     <!-- <h3 class="archive__item-title" itemprop="headline"> -->
       <a >{{ title }} </a>
     <!-- </h3> -->
-    {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }} {% if post.file%}[PDF]{% endif %}</p> {% endif %}
+    {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }} {% if post.file%}<a href="{{ base_path }}{{ post.file }}" rel="permalink">[PDF]</a>{% endif %}</p> {% endif %}
     </li>
  </article>
 </div>
