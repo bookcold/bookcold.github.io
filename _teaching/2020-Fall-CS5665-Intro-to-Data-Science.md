@@ -55,3 +55,8 @@ The following textbooks/websites are useful as additional reference:
 | Date   | Topic                       | Reading           |
 |--------|-----------------------------|-------------------|
 | Sep 1  | Introduction                |                   |
+| Sep 3  | Introduction                |                   |
+| Sep 8  | Linear Algebra Recap        |                   |
+| Sep 10 | Linear Regression           |                   |
+| Sep 15 | Bias and Variance           |                   |
+| Sep 17 | Logistic Regression         |                   |
