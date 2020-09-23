@@ -39,9 +39,9 @@ The following textbooks/websites are useful as additional reference:
 
 
 ## Grading
-- Homework (around 60%)
+- Homework (60%)
     - Seven programming assignments 
-- Course Project (around 20%)
+- Course Project (20%)
     - Students do course projects solo
     - An online poster session will be hosted
 - Final Exam (20%)
@@ -60,5 +60,9 @@ The following textbooks/websites are useful as additional reference:
 | Sep 10 | Linear Regression           |                   |
 | Sep 15 | Linear Regression           |                   |
 | Sep 17 | Linear Regression           |                   |
-| Sep 22 | Bias and Variance          |                   |
+| Sep 22 | Bias and Variance           |                   |
 | Sep 24 | Logistic Regression         |                   |
+| Sep 29 | Logistic Regression         |                   |
+| Oct 1  | Multiclass Classification   |                   |
+| Oct 6  | Multilayer Neural Network   |                   |
+| Oct 8  | Deep Learning Packages      |                   |
