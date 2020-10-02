@@ -61,8 +61,10 @@ The following textbooks/websites are useful as additional reference:
 | Sep 15 | Linear Regression           |                   |
 | Sep 17 | Linear Regression           |                   |
 | Sep 22 | Bias and Variance           |                   |
-| Sep 24 | Logistic Regression         |                   |
+| Sep 24 | Perceptron                  |                   |
 | Sep 29 | Logistic Regression         |                   |
 | Oct 1  | Multiclass Classification   |                   |
 | Oct 6  | Multilayer Neural Network   |                   |
 | Oct 8  | Deep Learning Packages      |                   |
+| Oct 13 | Convolutional Neural Network-I|                   |
+| Oct 15 | Convolutional Neural Network-II|                   |
