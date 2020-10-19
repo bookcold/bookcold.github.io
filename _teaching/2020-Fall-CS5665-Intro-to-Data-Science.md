@@ -56,15 +56,18 @@ The following textbooks/websites are useful as additional reference:
 |--------|-----------------------------|-------------------|
 | Sep 1  | Introduction                |                   |
 | Sep 3  | Introduction                |                   |
-| Sep 8  | Linear Algebra Recap        |                   |
-| Sep 10 | Linear Regression           |                   |
-| Sep 15 | Linear Regression           |                   |
-| Sep 17 | Linear Regression           |                   |
+| Sep 8  | Linear Algebra Recap        |  d2l.ai Ch.2     |
+| Sep 10 | Linear Regression           |  d2l.ai Ch.3.1, 3.2     |
+| Sep 15 | Linear Regression           |  d2l.ai Ch.3.1, 3.2                 |
+| Sep 17 | Linear Regression           |  d2l.ai Ch.3.1, 3.2                 |
 | Sep 22 | Bias and Variance           |                   |
 | Sep 24 | Perceptron                  |                   |
 | Sep 29 | Logistic Regression         |                   |
-| Oct 1  | Multiclass Classification   |                   |
-| Oct 6  | Multilayer Neural Network   |                   |
-| Oct 8  | Deep Learning Packages      |                   |
-| Oct 13 | Convolutional Neural Network-I|                   |
-| Oct 15 | Convolutional Neural Network-II|                   |
+| Oct 1  | Multiclass Classification   |  d2l.ai Ch.3.4                 |
+| Oct 6  | Multilayer Neural Network   |  d2l.ai CH.4.1,4.2                 |
+| Oct 8  | Multilayer Neural Network   |  d2l.ai CH.4.7                 |
+| Oct 13 | Deep Learning Packages      |                   |
+| Oct 15 | Convolutional Neural Network-I|  d2l.ai CH.6                  |
+| Oct 20 | Convolutional Neural Network-II|  d2l.ai CH.7                 |
+| Oct 22 | Bag of Tricks               |                   |
+| Oct 27 | Autoencoder               |                   |
