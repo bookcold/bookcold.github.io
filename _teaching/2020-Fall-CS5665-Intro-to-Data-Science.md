@@ -69,5 +69,7 @@ The following textbooks/websites are useful as additional reference:
 | Oct 13 | Deep Learning Packages      |                   |
 | Oct 15 | Convolutional Neural Network-I|  d2l.ai CH.6                  |
 | Oct 20 | Convolutional Neural Network-II|  d2l.ai CH.7                 |
-| Oct 22 | Bag of Tricks               |                   |
-| Oct 27 | Autoencoder               |                   |
+| Oct 22 | Bag of Tricks-I               |                   |
+| Oct 27 | Bag of Tricks-II                |                   |
+| Oct 29 | Autoencoder                |                   |
+| NOv 3  | Word Embeddings
