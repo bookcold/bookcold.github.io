@@ -72,4 +72,6 @@ The following textbooks/websites are useful as additional reference:
 | Oct 22 | Bag of Tricks-I               |                   |
 | Oct 27 | Bag of Tricks-II                |                   |
 | Oct 29 | Autoencoder                |                   |
-| NOv 3  | Word Embeddings
+| NOv 3  | Text Data Processing Basis | |
+| NOv 5  | Word Embeddings
+| NOv 10  | Recurrent Neural Networks | |
