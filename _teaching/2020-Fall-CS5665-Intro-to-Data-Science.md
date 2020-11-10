@@ -74,4 +74,7 @@ The following textbooks/websites are useful as additional reference:
 | Oct 29 | Autoencoder                |                   |
 | NOv 3  | Text Data Processing Basis | |
 | NOv 5  | Word Embeddings
-| NOv 10  | Recurrent Neural Networks | |
+| NOv 10  | Recurrent Neural Networks-I | |
+| NOv 12  | Recurrent Neural Networks-II | |
+| NOv 17  | Neural Machine Translation | |
+| NOv 19  | Transformer | |
