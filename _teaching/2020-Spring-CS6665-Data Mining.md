@@ -2,7 +2,7 @@
 title: "CS 6665: Data Mining"
 collection: teaching
 type: "Spring 2020"
-permalink: /teaching/2020-spring-teaching/
+# permalink: /teaching/2020-spring-teaching/
 venue: "1:30 pm to 2:45 pm on TR in GEOL 302"
 # date: "2020-01"
 # location: "City, Country"
