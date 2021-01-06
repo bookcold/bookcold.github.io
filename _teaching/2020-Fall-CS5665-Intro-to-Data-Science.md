@@ -9,8 +9,6 @@ venue: "1:30 pm to 2:45 pm on TR via WebBroadcast"
 # location: "City, Country"
 ---
 
-*The information described here has not been finalized yet. This page will be updated frequently.*
-
 ## Course Descriptions
 Data science is an inter-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from many structural and unstructured data. Data science is related to data mining, deep learning and big data <sup>\[[link](https://en.wikipedia.org/wiki/Data_science)\]</sup>. In recent years, deep learning approaches have obtained very high performance on various data analysis tasks. This course focuses on introducing the basic deep learning approaches. The goal of this course is for students to learn how to use deep learning for solving real-world data analysis problems, especially in the fields of computer vision and natural language processing.
 
@@ -52,29 +50,34 @@ The following textbooks/websites are useful as additional reference:
 
 ## Class Schedule
 
-| Date   | Topic                       | Reading           |
-|--------|-----------------------------|-------------------|
-| Sep 1  | Introduction                |                   |
-| Sep 3  | Introduction                |                   |
-| Sep 8  | Linear Algebra Recap        |  d2l.ai Ch.2     |
-| Sep 10 | Linear Regression           |  d2l.ai Ch.3.1, 3.2     |
-| Sep 15 | Linear Regression           |  d2l.ai Ch.3.1, 3.2                 |
-| Sep 17 | Linear Regression           |  d2l.ai Ch.3.1, 3.2                 |
-| Sep 22 | Bias and Variance           |                   |
-| Sep 24 | Perceptron                  |                   |
-| Sep 29 | Logistic Regression         |                   |
-| Oct 1  | Multiclass Classification   |  d2l.ai Ch.3.4                 |
-| Oct 6  | Multilayer Neural Network   |  d2l.ai CH.4.1,4.2                 |
-| Oct 8  | Multilayer Neural Network   |  d2l.ai CH.4.7                 |
-| Oct 13 | Deep Learning Packages      |                   |
-| Oct 15 | Convolutional Neural Network-I|  d2l.ai CH.6                  |
-| Oct 20 | Convolutional Neural Network-II|  d2l.ai CH.7                 |
-| Oct 22 | Bag of Tricks-I               |                   |
-| Oct 27 | Bag of Tricks-II                |                   |
-| Oct 29 | Autoencoder                |                   |
-| NOv 3  | Text Data Processing Basis | |
-| NOv 5  | Word Embeddings
-| NOv 10  | Recurrent Neural Networks-I | |
-| NOv 12  | Recurrent Neural Networks-II | |
-| NOv 17  | Neural Machine Translation | |
-| NOv 19  | Transformer | |
+| Date   | Topic                       | 
+|--------|-----------------------------|
+| Sep 1  | Introduction                |  
+| Sep 3  | Introduction                |  
+| Sep 8  | Linear Algebra Recap        | 
+| Sep 10 | Linear Regression           |  
+| Sep 15 | Linear Regression           |  
+| Sep 17 | Linear Regression           |  
+| Sep 22 | Bias and Variance           |  
+| Sep 24 | Perceptron                  |  
+| Sep 29 | Logistic Regression         |  
+| Oct 1  | Multiclass Classification   |  
+| Oct 6  | Multilayer Neural Network   | 
+| Oct 8  | Multilayer Neural Network   |  
+| Oct 13 | Deep Learning Packages      | 
+| Oct 15 | Convolutional Neural Network-I|  
+| Oct 20 | Convolutional Neural Network-II|  
+| Oct 22 | Bag of Tricks-I               |                   
+| Oct 27 | Bag of Tricks-II                |                   
+| Oct 29 | Autoencoder                |                   
+| Nov 3  | Text Data Processing Basis | 
+| Nov 5  | Word Embeddings |
+| Nov 10  | Recurrent Neural Networks-I | 
+| Nov 12  | Recurrent Neural Networks-II | 
+| Nov 17  | Neural Machine Translation | 
+| Nov 19  | Transformer | 
+| Nov 24  | Transformer | 
+| Dec 1  | Poster Session | 
+| Dec 3  | Poster Session | 
+| Dec 8  | Project Presentation | 
+| Dec 10  | Final Review | 
