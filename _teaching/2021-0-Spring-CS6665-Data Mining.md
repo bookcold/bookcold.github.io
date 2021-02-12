@@ -19,40 +19,26 @@ Data mining aims at finding useful patterns in large data sets. This course will
 - Basic linear algebra
 
 ## Course Material
-Leskovec, J., Rajaraman, A., & Ullman, J. D. (2014). Mining of massive datasets. Cambridge university press. [Available Online.](http://www.mmds.org/)
+- [MMDS] Leskovec, J., Rajaraman, A., & Ullman, J. D. (2014). Mining of massive datasets. Cambridge university press. [Available Online.](http://www.mmds.org/)
+- [MML] Deisenroth, Marc Peter, A. Aldo Faisal, and Cheng Soon Ong. (2020). Mathematics for Machine Learning. [Available Online.](https://mml-book.github.io/)
 
-<!-- ## Class Schedule
+
+## Class Schedule
 
 | Date   | Topic                       | Reading           |
 |--------|-----------------------------|-------------------|
 | Jan 19  | Introduction to Data Mining | MMDS CH.1         |
-| Jan 21  | Map-Reduce                  | MMDS CH.2         |
-| Jan 26 | Introduction to Spark       | MMDS CH.2         |
-| Jan 28 | Frequent Itemsets Mining    | MMDS CH.6.1-6.4   |
-| Feb 2  | Locality-Sensitive Hashing  | MMDS CH.3.1-3.4   |
-| Feb 4  | Locality-Sensitive Hashing  | MMDS CH.3.5-3.6   |
-| Feb 9  | Clustering                  | MMDS CH.7.1-7.4   |
-| Feb 11 | Clustering                  | MMDS CH.7.1-7.4   |
-| Feb 16  | KNN & Naive Bayes           | MMDS CH.12.1,12.4 |
-| Feb 18  | Decision Tree               | MMDS CH.12.5      |
-| Feb 23 |  SVM        | MMDS CH.12.3      |
-| Feb 25 |          | MMDS CH.12.3      |
-| Mar 2  |                          | MMDS CH.12.3      |
-| Mar 4 | Mining Data Streams         | MMDS CH.4.1-4.3   |
-| Mar 9 | Mining Data Streams         | MMDS CH.4.4-4.7   |
-| Mar 11 | Dimensionality Reduction         |  |
-| Mar 16 | Course Project Proposal Presentation  | MMDS CH.5.1-5.2   |
-| Mar 18 | Midterm Review    | MMDS CH.11.1-11.3 |
-| Mar 23 | Midterm Exam        | MMDS CH.9.1-9.3   |
-| Mar 25 |          | MMDS CH.9.4-9.5   |
-| Mar 30 | Computational Advertising               |         |
-| Apr 1 | Recommender Systems              |         |
-| Apr 2  | Recommender Systems              |         |
-| Apr 13  |  |        |
-| Apr 15  |Responsible Data Science |         |
-| Apr 20 | Course Project Presentation |         |
-| Apr 22 | Course Project Presentation |         |
-| Apr 27 | Cancelled |         | -->
+| Jan 21  | Cancelled                  | MMDS CH.2         |
+| Jan 26 | Map-Reduce      | MMDS CH.2         |
+| Jan 28 | Matrix Multiplication by MapReduce (Optional)    | MMDS CH.2   |
+| Feb 2  | Spark    | MMDS CH.2   |
+| Feb 4  | Frequent Itemset Mining    | MMDS CH.6.1-6.3; CH.6.4 (Optional)   |
+| Feb 9 | Locality-Sensitive Hashing  | MMDS CH.3.1-3.4   |
+| Feb 11 | Locality-Sensitive Hashing  | MMDS CH.3.5-3.6 (Optional)  |
+| Feb 16 | Clustering                  | MMDS CH.7.1-7.3   |
+| Feb 18 | Clustering                  | MMDS CH.7.3-7.4   |
+
+
 
 
 ## Grading
