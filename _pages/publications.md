@@ -39,29 +39,18 @@ author_profile: true
 
 - Yuemeng Li, Shuhan Yuan, Xintao Wu, Aidong Lu. "On spectral analysis of directed signed graphs." International Journal of Data Science and Analytics, 2018.
 
-- Depeng Xu, Shuhan Yuan, Xintao Wu, HaiNhat Phan. "DPNE: Differentially Private Network Embedding." In the Proceedings of the Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2018. [PDF](https://yuan.shuhan.org/files/PAKDD18.pdf)
+- Depeng Xu, Shuhan Yuan, Xintao Wu, HaiNhat Phan. "DPNE: Differentially Private Network Embedding." In the Proceedings of the Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2018. [\[PDF\]](https://yuan.shuhan.org/files/PAKDD18.pdf)
 
 ### 2017
 
-- Depeng Xu, Shuhan Yuan, Xintao Wu. "Differential Privacy Preserving Causal Graph Discovery." In the Proceedings of 2017 IEEE Symposium on Privacy-Aware Computing (PAC), 2017. [PDF](https://yuan.shuhan.org/files/PAC-17.pdf)
+- Depeng Xu, Shuhan Yuan, Xintao Wu. "Differential Privacy Preserving Causal Graph Discovery." In the Proceedings of 2017 IEEE Symposium on Privacy-Aware Computing (PAC), 2017. [\[PDF\]](https://yuan.shuhan.org/files/PAC-17.pdf)
 
-- Shuhan Yuan, Xintao Wu, Jun Li, Aidong Lu. "Spectrum-based Deep Neural Networks for Fraud Detection." In the Proceedings of the 2017 ACM on Conference on Information and Knowledge Management, 2017. [PDF](https://yuan.shuhan.org/files/CIKM-17.pdf)
+- Shuhan Yuan, Xintao Wu, Jun Li, Aidong Lu. "Spectrum-based Deep Neural Networks for Fraud Detection." In the Proceedings of the 2017 ACM on Conference on Information and Knowledge Management, 2017. [\[PDF\]](https://yuan.shuhan.org/files/CIKM-17.pdf)
 
-- Shuhan Yuan, Xintao Wu, Yang Xiang, "SNE: Signed Network Embedding." In the Proceedings of Pacific-Asia Conference on Knowledge Discovery and Data Mining, 2017. [PDF](https://yuan.shuhan.org/files/PAKDD-17.pdf)
+- Shuhan Yuan, Xintao Wu, Yang Xiang, "SNE: Signed Network Embedding." In the Proceedings of Pacific-Asia Conference on Knowledge Discovery and Data Mining, 2017. [\[PDF\]](https://yuan.shuhan.org/files/PAKDD-17.pdf)
 
 ### 2016
 
-- Shuhan Yuan, Xintao Wu, Yang Xiang, "Incorporating Pre-Training in Long Short-Term Memory Networks for Tweets Classification." In the Proceedings of 2016 IEEE 16th International Conference on Data Mining (ICDM), 2016. [PDF](https://yuan.shuhan.org/files/ICDM-16.pdf)
+- Shuhan Yuan, Xintao Wu, Yang Xiang, "Incorporating Pre-Training in Long Short-Term Memory Networks for Tweets Classification." In the Proceedings of 2016 IEEE 16th International Conference on Data Mining (ICDM), 2016. [\[PDF\]](https://yuan.shuhan.org/files/ICDM-16.pdf)
 
-- Shuhan Yuan, Xintao Wu, Yang Xiang. "A Two Phase Deep Learning Model for Identifying Discrimination from Tweets." In the Proceedings of the 19th International Conference on Extending Database Technology (EDBT), 2016. [PDF](https://yuan.shuhan.org/files/EDBT-16.pdf)
-
-
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-publication-page.html %}
-{% endfor %} -->
+- Shuhan Yuan, Xintao Wu, Yang Xiang. "A Two Phase Deep Learning Model for Identifying Discrimination from Tweets." In the Proceedings of the 19th International Conference on Extending Database Technology (EDBT), 2016. [\[PDF\]](https://yuan.shuhan.org/files/EDBT-16.pdf)
