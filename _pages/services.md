@@ -2,7 +2,7 @@
 permalink: /
 title: "Services"
 excerpt: "services"
-permalink: /servics/
+permalink: /services/
 author_profile: true
 ---
 

@@ -1,11 +1,11 @@
 ---
 permalink: /students/
-title: "students"
-excerpt: "students"
+title: "Students"
+excerpt: "Students"
 author_profile: true
 ---
 
-### Students
+<!-- ### Students -->
 
 - Xiao Han, Ph.D. student
 - He Cheng, Ph.D. student
