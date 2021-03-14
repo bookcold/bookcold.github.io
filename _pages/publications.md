@@ -29,7 +29,7 @@ author_profile: true
 
 - Yuemeng Li, Aidong Lu, Xintao Wu, Shuhan Yuan. "Dynamic Anomaly Detection Using Vector Autoregressive Model." In the Proceedings of 23rd Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2019.
 
-- Depeng Xu, Shuhan Yuan, Xintao Wu. "Achieving Differential Privacy and Fairness in Logistic Regression." In the Proceedings of Companion Proceedings of The 2019 World Wide Web Conference, 2019. [\[link\]](https://dl.acm.org/doi/10.1145/3308560.3317584) [PDF](https://yuan.shuhan.org/files/WWW-19.pdf)
+- Depeng Xu, Shuhan Yuan, Xintao Wu. "Achieving Differential Privacy and Fairness in Logistic Regression." In the Proceedings of Companion Proceedings of The 2019 World Wide Web Conference, 2019. [\[link\]](https://dl.acm.org/doi/10.1145/3308560.3317584) [\[PDF\]](https://yuan.shuhan.org/files/WWW-19.pdf)
 
 ### 2018
 
