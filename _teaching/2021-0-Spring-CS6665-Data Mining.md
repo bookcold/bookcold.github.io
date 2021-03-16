@@ -28,7 +28,7 @@ Data mining aims at finding useful patterns in large data sets. This course will
 | Date   | Topic                       | Reading           |
 |--------|-----------------------------|-------------------|
 | Jan 19  | Introduction to Data Mining | MMDS CH.1         |
-| Jan 21  | Cancelled                  | MMDS CH.2         |
+| Jan 21  | Canceled                  | MMDS CH.2         |
 | Jan 26 | Map-Reduce      | MMDS CH.2         |
 | Jan 28 | Matrix Multiplication by MapReduce (Optional)    | MMDS CH.2   |
 | Feb 2  | Spark    | MMDS CH.2   |
@@ -36,7 +36,15 @@ Data mining aims at finding useful patterns in large data sets. This course will
 | Feb 9 | Locality-Sensitive Hashing  | MMDS CH.3.1-3.4   |
 | Feb 11 | Locality-Sensitive Hashing  | MMDS CH.3.5-3.6 (Optional)  |
 | Feb 16 | Clustering                  | MMDS CH.7.1-7.3   |
-| Feb 18 | Clustering                  | MMDS CH.7.3-7.4   |
+| Feb 18 | Hierarchical clustering and K-means        | MMDS CH.7.1-7.3   |
+| Feb 23 | BRF and CURE                | MMDS CH.7.3-7.4  |
+| Feb 25 | EM algorithm (Optional)     | MML CH.11.1-11.3 |
+| Mar 2  | Gaussian Mixture Models (Optional)    |  MML CH.11.1-11.3  |
+| Mar 4  | k-nn and Naive Bayes        | MMDS CH.12.1,12.4 |
+| Mar 9  | k-nn and Naive Bayes        | MMDS CH.12.1,12.4 |
+| Mar 11 | Decision Tree               | MMDS CH.12.5      |
+| Mar 16 | SVM                         | MML CH.12.1,12.2; MMDS CH.12.3  |
+| Mar 18 | Course Project Proposal Presentation  |   |
 
 
 
