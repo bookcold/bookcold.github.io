@@ -53,7 +53,7 @@ Data mining aims at finding useful patterns in large data sets. This course will
 | April 8 | Canceled                    ||
 | April 13 | PageRank                   | MMDS CH5.1-5.2|
 | April 20 | Course Project Presentation ||
-| April 27 | Course Project Presentation ||
+| April 22 | Course Project Presentation ||
 
 
 
