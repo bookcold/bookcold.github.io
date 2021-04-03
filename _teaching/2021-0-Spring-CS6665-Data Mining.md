@@ -49,6 +49,7 @@ Data mining aims at finding useful patterns in large data sets. This course will
 | Mar 25 | Midterm                      | |
 | Mar 30 | Mining Data Streams          |MMDS CH4.1-4.3|
 | April 1 | Mining Data Streams         |MMDS CH4.4-4.7|
+| April 6 | Mining Data Streams         |MMDS CH4.4-4.7|
 | April 8 | Canceled                    ||
 | April 13 | PageRank                   | MMDS CH5.1-5.2|
 | April 20 | Course Project Presentation ||
