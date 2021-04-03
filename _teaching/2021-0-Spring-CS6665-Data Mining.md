@@ -45,7 +45,14 @@ Data mining aims at finding useful patterns in large data sets. This course will
 | Mar 11 | Decision Tree               | MMDS CH.12.5      |
 | Mar 16 | SVM                         | MML CH.12.1,12.2; MMDS CH.12.3  |
 | Mar 18 | Course Project Proposal Presentation  |   |
-
+| Mar 23 | SVM + Midterm Review         | |
+| Mar 25 | Midterm                      | |
+| Mar 30 | Mining Data Streams          |MMDS CH4.1-4.3|
+| April 1 | Mining Data Streams         |MMDS CH4.4-4.7|
+| April 8 | Canceled                    ||
+| April 13 | PageRank                   | MMDS CH5.1-5.2|
+| April 20 | Course Project Presentation ||
+| April 27 | Course Project Presentation ||
 
 
 
@@ -66,11 +73,12 @@ Data mining aims at finding useful patterns in large data sets. This course will
 3. Frequent itemset mining
 4. Finding similar items
 5. Clustering
-6. Mining data stream
-7. Dimensionality reduction
-8. Recommender systems
-9. Computational advertising
-10. Pagerank
-11. Machine learning
-12. Anomaly detection
+6. Classification
+7. Mining data stream
+8. Dimensionality reduction
+9. Recommender systems
+10. Computational advertising
+11. Pagerank
+12. Machine learning
+13. Anomaly detection
 
