@@ -7,7 +7,7 @@ author_profile: true
 
 <!-- ### Students -->
 
-- Xiao Han, Ph.D. student
-- He Cheng, Ph.D. student
+- Xiao Han, Ph.D. student, Fall 2020 - 
+- He Cheng, Ph.D. student, Fall 2020 -
 - Haixuan Guo, master student
 - Peiyu Li, master student
