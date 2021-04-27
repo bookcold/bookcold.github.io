@@ -2,7 +2,7 @@
 title: "Deep Learning for Insider Threat Detection"
 collection: projects
 type: projects
-permalink: /projects/insider
+permalink: /projects/2021_insider
 ---
 
 
