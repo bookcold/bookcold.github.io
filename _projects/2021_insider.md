@@ -25,6 +25,6 @@ This project develops novel deep learning approaches to detect malicious session
 ---
 
 ## Acknowledgements
-<img style="float: left;" width="150" src="/images/NSF_Logo.png">
+<img style="float: left;" width="100" src="/images/NSF_Logo.png">
 <!-- ![image](/images/NSF_Logo.png){: width: 200px; style="float: left"} -->
 This material is based upon work supported by National Science Foundation under 2103829. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation.
