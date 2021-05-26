@@ -3,7 +3,7 @@ title: "CS 5665: Introduction to Data Science"
 collection: teaching
 type: "Fall 2021"
 permalink: /teaching/2021-fall-teaching/
-venue: "1:30 pm to 2:45 pm on Old Main 115 and via WebBroadcast"
+venue: "1:30 pm to 2:45 pm on TR in Old Main 115 and via WebBroadcast"
 # Huntsman Hall 380
 # date: "2020-01"
 # location: "City, Country"
