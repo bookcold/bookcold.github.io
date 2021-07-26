@@ -20,6 +20,9 @@ Insiders are malicious people within organizations who abuse their authorized ac
 
 - Shuhan Yuan and Xintao Wu.  "Deep Learning for Insider Threat Detection: Review, Challenges and Opportunities". Computer & Security, 2021. [\[link\]](https://doi.org/10.1016/j.cose.2021.102221) [\[arxiv\]](https://arxiv.org/abs/2005.12433)
 
+- Haixuan Guo, Shuhan Yuan and Xintao Wu. "LogBERT: Log Anomaly Detection via BERT". In the Proceedings of the International Conference on Neural Networks (IJCNN), 2021. [\[arxiv\]](https://arxiv.org/abs/2103.04475) [\[code\]](https://github.com/HelenGuohx/logbert)
+
+
 ---
 
 ## Acknowledgements
