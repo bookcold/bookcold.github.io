@@ -7,6 +7,8 @@ author_profile: true
 
 ### 2021
 
+- Xiao Han, Shuhan Yuan. "Unsupervised Cross-system Log Anomaly Detection via Domain Adaptation." In the Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM), Nov 1-5, 2021. (short paper)
+
 - Jianting Chen, Shuhan Yuan, Dongdong Lv, and Yang Xiang. "A Novel Self-learning Feature Selection Approach Based on Feature Attributions." Expert Systems with Applications, 2021. [\[link\]](https://doi.org/10.1016/j.eswa.2021.115219)
 
 - Haixuan Guo, Shuhan Yuan and Xintao Wu. "LogBERT: Log Anomaly Detection via BERT". In the Proceedings of the International Conference on Neural Networks (IJCNN), 2021. [\[arxiv\]](https://arxiv.org/abs/2103.04475) [\[code\]](https://github.com/HelenGuohx/logbert)
@@ -15,7 +17,7 @@ author_profile: true
 
 ### 2020
 
-- Shuhan Yuan, Panpan Zheng, Xintao Wu, and Hanghang Tong. "Few-shot Insider Threat Detection". In the Proceedings of the 29th ACM International Conference on Information and Knowledge Management, 2020. [\[link\]](https://dl.acm.org/doi/abs/10.1145/3340531.3412161)
+- Shuhan Yuan, Panpan Zheng, Xintao Wu, and Hanghang Tong. "Few-shot Insider Threat Detection". In the Proceedings of the 29th ACM International Conference on Information and Knowledge Management, 2020. (short paper) [\[link\]](https://dl.acm.org/doi/abs/10.1145/3340531.3412161)
 
 - Molla Hafizur Rahman, Shuhan Yuan, Charles Xie, and Zhenghui Sha. "Predicting human design decisions with deep recurrent neural network combining static and dynamic data." Design Science 6, 2020.
 

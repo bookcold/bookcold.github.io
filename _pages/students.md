@@ -9,6 +9,7 @@ author_profile: true
 
 - Xiao Han, Ph.D. student, Fall 2020 - 
 - He Cheng, Ph.D. student, Fall 2020 -
+- Xingyi Zhao, Ph.D. student, Fall 2021 -
 
 
 ### Alumni 

@@ -40,7 +40,7 @@ The following textbooks/websites are useful as additional reference:
 
 ## Grading
 - Homework (50%)
-    - Five programming assignments 
+    - Six programming assignments 
 - Course Project (30%)
     - Students do course projects as groups
     <!-- - Online poster sessions will be hosted -->
