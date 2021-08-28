@@ -7,7 +7,7 @@ author_profile: true
 
 ### 2021
 
-- Xiao Han, Shuhan Yuan. "Unsupervised Cross-system Log Anomaly Detection via Domain Adaptation." In the Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM), Nov 1-5, 2021. (short paper)
+- Xiao Han, Shuhan Yuan. "Unsupervised Cross-system Log Anomaly Detection via Domain Adaptation." In the Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM), 2021. (short paper)
 
 - Jianting Chen, Shuhan Yuan, Dongdong Lv, and Yang Xiang. "A Novel Self-learning Feature Selection Approach Based on Feature Attributions." Expert Systems with Applications, 2021. [\[link\]](https://doi.org/10.1016/j.eswa.2021.115219)
 
