@@ -13,5 +13,5 @@ author_profile: true
 
 
 ### Alumni 
-- Haixuan Guo, Master Graduate 2021 (First employment: Indeed)
+- Haixuan Guo, Master Graduate 2021 (First employment: Apple Inc.)
 - Peiyu Li, Master Graduate 2021 (First employment: PhD student at the USU)
