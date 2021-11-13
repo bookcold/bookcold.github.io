@@ -24,6 +24,8 @@ Insiders are malicious people within organizations who abuse their authorized ac
 
 - Xiao Han, Shuhan Yuan. "Unsupervised Cross-system Log Anomaly Detection via Domain Adaptation." In the Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM), 2021. (short paper) [\[link\]](https://dl.acm.org/doi/abs/10.1145/3459637.3482209) [\[code\]](https://github.com/hanxiao0607/LogTAD)
 
+- Panpan Zheng, Shuhan Yuan, and Xintao Wu. "2021. Using Dirichlet Marked Hawkes Processes for Insider Threat Detection." Digital Threats: Research and Practice 3, 1, Article 5 (March 2022), 19 pages. [\[link\]](https://dl.acm.org/doi/full/10.1145/3457908) [\[\code]](https://github.com/PanpanZheng/DMHP)
+
 
 ---
 

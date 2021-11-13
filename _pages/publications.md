@@ -5,21 +5,27 @@ permalink: /publications/
 author_profile: true
 ---
 
+### 2022
+
+- Panpan Zheng, Shuhan Yuan, and Xintao Wu. "2021. Using Dirichlet Marked Hawkes Processes for Insider Threat Detection." Digital Threats: Research and Practice 3, 1, Article 5 (March 2022), 19 pages. [\[link\]](https://dl.acm.org/doi/full/10.1145/3457908) [\[\code]](https://github.com/PanpanZheng/DMHP)
+
 ### 2021
 
-- 
+- Xiao Han, He Cheng, Depeng Xu and Shuhan Yuan.  "InterpretableSAD: Interpretable Anomaly Detection in Sequential Log Data." In the Proceedings of 2021 IEEE International Conference on Big Data (BigData), 2021.
+
+- Panpan Zheng, Shuhan Yuan, Xintao Wu and Yubao Wu.  "Hidden Buyer Identification in Darknet Markets via Dirichlet Hawkes Process." In the Proceedings of 2021 IEEE International Conference on Big Data (BigData), 2021.
 
 - Xiao Han, Shuhan Yuan. "Unsupervised Cross-system Log Anomaly Detection via Domain Adaptation." In the Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM), 2021. (short paper) [\[link\]](https://dl.acm.org/doi/abs/10.1145/3459637.3482209) [\[code\]](https://github.com/hanxiao0607/LogTAD)
 
 - Jianting Chen, Shuhan Yuan, Dongdong Lv, and Yang Xiang. "A Novel Self-learning Feature Selection Approach Based on Feature Attributions." Expert Systems with Applications, 2021. [\[link\]](https://doi.org/10.1016/j.eswa.2021.115219)
 
-- Haixuan Guo, Shuhan Yuan and Xintao Wu. "LogBERT: Log Anomaly Detection via BERT". In the Proceedings of the International Conference on Neural Networks (IJCNN), 2021. [\[arxiv\]](https://arxiv.org/abs/2103.04475) [\[code\]](https://github.com/HelenGuohx/logbert)
+- Haixuan Guo, Shuhan Yuan and Xintao Wu. "LogBERT: Log Anomaly Detection via BERT." In the Proceedings of the International Conference on Neural Networks (IJCNN), 2021. [\[arxiv\]](https://arxiv.org/abs/2103.04475) [\[code\]](https://github.com/HelenGuohx/logbert)
 
-- Shuhan Yuan and Xintao Wu.  "Deep Learning for Insider Threat Detection: Review, Challenges and Opportunities". Computer & Security, 2021. [\[link\]](https://doi.org/10.1016/j.cose.2021.102221) [\[arxiv\]](https://arxiv.org/abs/2005.12433)
+- Shuhan Yuan and Xintao Wu.  "Deep Learning for Insider Threat Detection: Review, Challenges and Opportunities." Computer & Security, 2021. [\[link\]](https://doi.org/10.1016/j.cose.2021.102221) [\[arxiv\]](https://arxiv.org/abs/2005.12433)
 
 ### 2020
 
-- Shuhan Yuan, Panpan Zheng, Xintao Wu, and Hanghang Tong. "Few-shot Insider Threat Detection". In the Proceedings of the 29th ACM International Conference on Information and Knowledge Management, 2020. (short paper) [\[link\]](https://dl.acm.org/doi/abs/10.1145/3340531.3412161)
+- Shuhan Yuan, Panpan Zheng, Xintao Wu, and Hanghang Tong. "Few-shot Insider Threat Detection." In the Proceedings of the 29th ACM International Conference on Information and Knowledge Management, 2020. (short paper) [\[link\]](https://dl.acm.org/doi/abs/10.1145/3340531.3412161)
 
 - Molla Hafizur Rahman, Shuhan Yuan, Charles Xie, and Zhenghui Sha. "Predicting human design decisions with deep recurrent neural network combining static and dynamic data." Design Science 6, 2020.
 
