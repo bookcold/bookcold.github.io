@@ -7,7 +7,7 @@ author_profile: true
 
 ### 2022
 
-- Panpan Zheng, Shuhan Yuan, and Xintao Wu. "2021. Using Dirichlet Marked Hawkes Processes for Insider Threat Detection." Digital Threats: Research and Practice 3, 1, Article 5 (March 2022), 19 pages. [\[link\]](https://dl.acm.org/doi/full/10.1145/3457908) [\[code\]](https://github.com/PanpanZheng/DMHP)
+- Panpan Zheng, Shuhan Yuan, and Xintao Wu. "Using Dirichlet Marked Hawkes Processes for Insider Threat Detection." Digital Threats: Research and Practice 3, 1, Article 5 (March 2022), 19 pages. [\[link\]](https://dl.acm.org/doi/full/10.1145/3457908) [\[code\]](https://github.com/PanpanZheng/DMHP)
 
 ### 2021
 
