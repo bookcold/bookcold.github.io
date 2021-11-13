@@ -22,6 +22,8 @@ Insiders are malicious people within organizations who abuse their authorized ac
 
 - Haixuan Guo, Shuhan Yuan and Xintao Wu. "LogBERT: Log Anomaly Detection via BERT". In the Proceedings of the International Conference on Neural Networks (IJCNN), 2021. [\[arxiv\]](https://arxiv.org/abs/2103.04475) [\[code\]](https://github.com/HelenGuohx/logbert)
 
+- Xiao Han, Shuhan Yuan. "Unsupervised Cross-system Log Anomaly Detection via Domain Adaptation." In the Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM), 2021. (short paper) [\[link\]](https://dl.acm.org/doi/abs/10.1145/3459637.3482209) [\[code\]](https://github.com/hanxiao0607/LogTAD)
+
 
 ---
 
