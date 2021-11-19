@@ -25,7 +25,7 @@ Data science is an inter-disciplinary field that uses scientific methods, proces
 - Basic calculus, linear algebra
     - Be comfortable taking derivatives and understanding matrix/vector notation and operations. (e.g., matrix multiplication).
 
-<span style="color:red">To prospective students whose major are not in computer science</span>: A solid Python programming skill is required because both homework and course project are coding-based assignments. If you do not feel confortable with programming, I would not recommend you register for this course.
+<!-- <span style="color:red">To prospective students whose major are not in computer science</span>: A solid Python programming skill is required because both homework and course project are coding-based assignments. If you do not feel confortable with programming, I would not recommend you register for this course. -->
 
 ## Course Material
 - Aston Zhang, Zachary C. Lipton, Mu Li and Alexander J. Smola. (2020). Dive into Deep Learning. [Available Online.](https://d2l.ai)
@@ -50,36 +50,36 @@ The following textbooks/websites are useful as additional reference:
 ## Attendance
 - Attendance is not mandatory but encouraged
 
-## Tentative Schedule
+## Schedule
 
 | Date   | Topic                       | 
 |--------|-----------------------------|
 | Aug 31  | Introduction                |  
 | Sep 2  | Introduction                |  
-| Sep 7  | Linear Algebra Recap        | 
+| Sep 7  | Linear Regression       | 
 | Sep 9 | Linear Regression           |  
 | Sep 14 | Linear Regression           |  
 | Sep 16 | Linear Regression           |  
 | Sep 21 | Bias and Variance           |  
 | Sep 23 | Perceptron                  |  
 | Sep 28 | Logistic Regression         |  
-| Sep 30  | Multiclass Classification   |  
-| Oct 5  | Multilayer Neural Network   | 
+| Sep 30  | Logistic Regression  |  
+| Oct 5  | Multiclass Classification | 
 | Oct 7  | Multilayer Neural Network   |  
-| Oct 12 | Deep Learning Packages      | 
-| Oct 14 | Convolutional Neural Network-I|  
-| Oct 19 | Convolutional Neural Network-II|  
-| Oct 21 | Bag of Tricks-I               |                   
-| Oct 26 | Bag of Tricks-II                |                   
-| Oct 28 | Autoencoder                |                   
-| Nov 2  | Text Data Processing Basis | 
-| Nov 4  | Word Embeddings |
+| Oct 12 | Multilayer Neural Network     | 
+| Oct 14 | Deep Learning Package |  
+| Oct 19 | Convolutional Neural Network-I|  
+| Oct 21 | Convolutional Neural Network-II              |                   
+| Oct 26 | Bag of Tricks-I                |                   
+| Oct 28 | Bag of Tricks-II               |                   
+| Nov 2  | Auto-encoder  | 
+| Nov 4  | Text Data Processing and Word Embeddings |
 | Nov 9  | Recurrent Neural Networks-I | 
 | Nov 11  | Recurrent Neural Networks-II | 
-| Nov 16  | Neural Machine Translation | 
-| Nov 18  | Transformer | 
-| Nov 23  | Transformer | 
+| Nov 16  | LSTM and GRU | 
+| Nov 18  | Machine Translation | 
+| Nov 23  | Canceled | 
 | Nov 30  | Project Presentation | 
 | Dec 2  | Project Presentation | 
-| Dec 7  | Final Review | 
-| Dec 9  | Canceled | 
+| Dec 7  | Project Presentation | 
+| Dec 9  | Final Review | 
