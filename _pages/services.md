@@ -27,6 +27,7 @@ author_profile: true
 - ACM Transactions on the Web 
 - World Wide Web Journal
 - Social Network Analysis and Mining 
+- Computers & Security
 - Neural Computing and Applications 
 - Journal of Intelligent Information Systems 
 - International Journal of Data Science and Analytics 

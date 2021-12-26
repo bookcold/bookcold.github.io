@@ -11,9 +11,9 @@ author_profile: true
 
 ### 2021
 
-- Xiao Han, He Cheng, Depeng Xu and Shuhan Yuan.  "InterpretableSAD: Interpretable Anomaly Detection in Sequential Log Data." In the Proceedings of 2021 IEEE International Conference on Big Data (BigData), 2021.
+- Xiao Han, He Cheng, Depeng Xu and Shuhan Yuan. "InterpretableSAD: Interpretable Anomaly Detection in Sequential Log Data." In the Proceedings of 2021 IEEE International Conference on Big Data (BigData), 2021.
 
-- Panpan Zheng, Shuhan Yuan, Xintao Wu and Yubao Wu.  "Hidden Buyer Identification in Darknet Markets via Dirichlet Hawkes Process." In the Proceedings of 2021 IEEE International Conference on Big Data (BigData), 2021.
+- Panpan Zheng, Shuhan Yuan, Xintao Wu and Yubao Wu. "Hidden Buyer Identification in Darknet Markets via Dirichlet Hawkes Process." In the Proceedings of 2021 IEEE International Conference on Big Data (BigData), 2021. [\[arxiv\]](https://arxiv.org/abs/1911.04620)
 
 - Xiao Han, Shuhan Yuan. "Unsupervised Cross-system Log Anomaly Detection via Domain Adaptation." In the Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM), 2021. (short paper) [\[link\]](https://dl.acm.org/doi/abs/10.1145/3459637.3482209) [\[code\]](https://github.com/hanxiao0607/LogTAD)
 
