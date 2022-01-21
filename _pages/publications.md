@@ -7,13 +7,17 @@ author_profile: true
 
 ### 2022
 
+- Depeng Xu, Shuhan Yuan, Yueyang Wang, Angela Uchechukwu Nwude, Lu Zhang, Anna Zajicek, and Xintao Wu. "Coded Hate Speech Detection via Contextual Information." In the Proceedings of 26th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2022. 
+
 - Panpan Zheng, Shuhan Yuan, and Xintao Wu. "Using Dirichlet Marked Hawkes Processes for Insider Threat Detection." Digital Threats: Research and Practice 3, 1, Article 5 (March 2022), 19 pages. [\[link\]](https://dl.acm.org/doi/full/10.1145/3457908) [\[code\]](https://github.com/PanpanZheng/DMHP)
 
 ### 2021
 
-- Xiao Han, He Cheng, Depeng Xu and Shuhan Yuan. "InterpretableSAD: Interpretable Anomaly Detection in Sequential Log Data." In the Proceedings of 2021 IEEE International Conference on Big Data (BigData), 2021.
+- Xiao Han, He Cheng, Depeng Xu, and Shuhan Yuan. "InterpretableSAD: Interpretable Anomaly Detection in Sequential Log Data." In the Proceedings of 2021 IEEE International Conference on Big Data (BigData), 2021. [\[link\]](https://ieeexplore.ieee.org/abstract/document/9671642) [\[code\]](https://github.com/hanxiao0607/InterpretableSAD)
 
-- Panpan Zheng, Shuhan Yuan, Xintao Wu and Yubao Wu. "Hidden Buyer Identification in Darknet Markets via Dirichlet Hawkes Process." In the Proceedings of 2021 IEEE International Conference on Big Data (BigData), 2021. [\[arxiv\]](https://arxiv.org/abs/1911.04620)
+- Panpan Zheng, Shuhan Yuan, Xintao Wu, and Yubao Wu. "Hidden Buyer Identification in Darknet Markets via Dirichlet Hawkes Process." In the Proceedings of 2021 IEEE International Conference on Big Data (BigData), 2021. [\[arxiv\]](https://arxiv.org/abs/1911.04620)
+
+- Depeng Xu, Shuhan Yuan, and Xintao Wu. "Achieving Differential Privacy in Vertically Partitioned Multiparty Learning." In the Proceedings of the 2021 IEEE International Conference on Big Data (BigData), 2021. (special session of privacy and security of big data) [\[arxiv\]](https://arxiv.org/abs/1911.04587)
 
 - Xiao Han, Shuhan Yuan. "Unsupervised Cross-system Log Anomaly Detection via Domain Adaptation." In the Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM), 2021. (short paper) [\[link\]](https://dl.acm.org/doi/abs/10.1145/3459637.3482209) [\[code\]](https://github.com/hanxiao0607/LogTAD)
 
@@ -61,7 +65,7 @@ author_profile: true
 
 - Shuhan Yuan, Xintao Wu, Jun Li, Aidong Lu. "Spectrum-based Deep Neural Networks for Fraud Detection." In the Proceedings of the 2017 ACM on Conference on Information and Knowledge Management, 2017. [\[PDF\]](https://yuan.shuhan.org/files/CIKM-17.pdf)
 
-- Shuhan Yuan, Xintao Wu, Yang Xiang, "SNE: Signed Network Embedding." In the Proceedings of Pacific-Asia Conference on Knowledge Discovery and Data Mining, 2017. [\[PDF\]](https://yuan.shuhan.org/files/PAKDD-17.pdf)
+- Shuhan Yuan, Xintao Wu, Yang Xiang, "SNE: Signed Network Embedding." In the Proceedings of Pacific-Asia Conference on Knowledge Discovery and Data Mining, 2017. [\[PDF\]](https://yuan.shuhan.org/files/PAKDD-17.pdf) [\[Code\]](https://bitbucket.org/bookcold/sne-signed-network-embedding/src/master/)
 
 ### 2016
 
