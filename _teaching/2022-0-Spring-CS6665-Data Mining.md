@@ -39,19 +39,19 @@ Data mining aims at finding useful patterns in large data sets. This course will
 | Feb 17  | Gaussian Mixture Models (Optional)    |  MML CH.11.1-11.3  |
 | Feb 22  | k-nn and Naive Bayes        | MMDS CH.12.1,12.4 |
 | Feb 24  | k-nn and Naive Bayes        | MMDS CH.12.1,12.4 |
-| Mar 1 | Decision Tree               | MMDS CH.12.5      |
-| Mar 3 | Course Project Proposal Presentation  |   |
+| Mar 1 | SVM               | MML CH.12.1,12.2 MMDS CH.12.3      |
+| Mar 3 | SVM  | MML CH.12.1,12.2 MMDS CH.12.3   |
 | Mar 8 | Spring Break |   |
 | Mar 10 | Spring Break |   |
-| Mar 15 | SVM   | MML CH.12.1,12.2; MMDS CH.12.3  |
-| Mar 17 | SVM        | MML CH.12.1,12.2; MMDS CH.12.3 |
-| Mar 22 | PageRank                   | MMDS CH5.1-5.2|
-| Mar 24 | Midterm                      | |
-| Mar 29 | Mining Data Streams          |MMDS CH4.1-4.3|
-| Mar 31 | Mining Data Streams         |MMDS CH4.4-4.7|
+| Mar 15 | Decision Tree   | MMDS CH.12.5  |
+| Mar 17 | PageRank                   | MMDS CH5.1-5.2|
+| Mar 22 | Midterm                      | |
+| Mar 24 | Dimensionality Reduction          |MMDS CH.11.3|
+| Mar 29 | Recommender Systems         |MMDS CH.9.1-9.3|
+| Mar 31 | Mining Data Streams         |MMDS CH4.1-4.3|
 | April 5 | Mining Data Streams         |MMDS CH4.4-4.7|
-| April 7 | Recommender Systems           |MMDS CH.9.1-9.3|
-| April 12 | Recommender Systems           |MMDS CH.9.4-9.5|
+| April 7 | Mining Data Streams           |MMDS CH4.4-4.7|
+| April 12 | Trustworthy AI           |   |
 | April 14 | Course Project Presentation ||
 | April 19 | Course Project Presentation ||
 | April 21 | Course Project Presentation ||

@@ -28,6 +28,8 @@ Insiders are malicious people within organizations who abuse their authorized ac
 
 - Xiao Han, He Cheng, Depeng Xu, and Shuhan Yuan. "InterpretableSAD: Interpretable Anomaly Detection in Sequential Log Data." In the Proceedings of 2021 IEEE International Conference on Big Data (BigData), 2021. [\[link\]](https://ieeexplore.ieee.org/abstract/document/9671642) [\[code\]](https://github.com/hanxiao0607/InterpretableSAD)
 
+- M.S. Vinay, Shuhan Yuan and Xintao Wu. "Contrastive Learning for Insider Threat Detection." In the Proceedings of the 27th International Conference on Database Systems for Advanced Applications (DASFAA), 2022. (short paper).  [\[link\]](https://link.springer.com/chapter/10.1007/978-3-031-00123-9_32)
+
 
 ---
 

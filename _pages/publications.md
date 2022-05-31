@@ -7,9 +7,13 @@ author_profile: true
 
 ### 2022
 
-- Depeng Xu, Shuhan Yuan, Yueyang Wang, Angela Uchechukwu Nwude, Lu Zhang, Anna Zajicek, and Xintao Wu. "Coded Hate Speech Detection via Contextual Information." In the Proceedings of 26th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2022. 
+- M.S. Vinay, Shuhan Yuan and Xintao Wu. "Contrastive Learning for Insider Threat Detection." In the Proceedings of the 27th International Conference on Database Systems for Advanced Applications (DASFAA), 2022. (short paper). [\[link\]](https://link.springer.com/chapter/10.1007/978-3-031-00123-9_32)
+
+- Depeng Xu, Shuhan Yuan, Yueyang Wang, Angela Uchechukwu Nwude, Lu Zhang, Anna Zajicek, and Xintao Wu. "Coded Hate Speech Detection via Contextual Information." In the Proceedings of 26th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2022. [\[link\]](https://link.springer.com/chapter/10.1007/978-3-031-05933-9_8)
 
 - Panpan Zheng, Shuhan Yuan, and Xintao Wu. "Using Dirichlet Marked Hawkes Processes for Insider Threat Detection." Digital Threats: Research and Practice 3, 1, Article 5 (March 2022), 19 pages. [\[link\]](https://dl.acm.org/doi/full/10.1145/3457908) [\[code\]](https://github.com/PanpanZheng/DMHP)
+
+- Xintao Wu, Depeng Xu, Shuhan Yuan, and Lu Zhang.  "Fair Data Generation and Machine Learning Through Generative Adversarial Networks". Book chapter in Generative Adversarial Learning: Architectures and Applications edited by Roozbeh Razavi-Far, Ariel Ruiz-Garcia, Vasile Palade, and Juergen Schmidhuber, ISBN 978-3-030-91389-2, 2022. [\[link\]](https://link.springer.com/book/10.1007/978-3-030-91390-8)
 
 ### 2021
 
