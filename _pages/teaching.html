@@ -12,7 +12,7 @@ author_profile: true
     {% include archive-single.html %}
     {% continue %}
   {% endif %} -->
-  {% if forloop.counter <= 2 %}
+  {% if forloop.counter0 < 2 %}
     {% include archive-single.html %}
   {% endif %}
   <div class="{{ include.type | default: "list" }}__item">
