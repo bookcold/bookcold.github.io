@@ -30,6 +30,10 @@ Insiders are malicious people within organizations who abuse their authorized ac
 
 - M.S. Vinay, Shuhan Yuan and Xintao Wu. "Contrastive Learning for Insider Threat Detection." In the Proceedings of the 27th International Conference on Database Systems for Advanced Applications (DASFAA), 2022. (short paper).  [\[link\]](https://link.springer.com/chapter/10.1007/978-3-031-00123-9_32)
 
+- He Cheng, Depeng Xu, and Shuhan Yuan. "Sequential Anomaly Detection with Local and Global Explanations." In the Proceedings of the 2022 IEEE International Conference on Big Data (BigData), 2022.
+
+- Xiao Han, Depeng Xu, Shuhan Yuan and Xintao Wu. "Few-shot Anomaly Detection and Classification Through Reinforced Data Selection."  In the Proceedings of the 22nd IEEE International Conference on Data Mining (ICDM), 2022.
+
 
 ---
 

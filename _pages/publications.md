@@ -7,6 +7,8 @@ author_profile: true
 
 ### 2022
 
+- Vinay M.S., Shuhan Yuan, and Xintao Wu. "Fraud Detection via Contrastive Positive Unlabeled Learning." In the Proceedings of the 2022 IEEE International Conference on Big Data (BigData), 2022.
+
 - He Cheng, Depeng Xu, and Shuhan Yuan. "Sequential Anomaly Detection with Local and Global Explanations." In the Proceedings of the 2022 IEEE International Conference on Big Data (BigData), 2022.
 
 - Xiao Han, Depeng Xu, Shuhan Yuan and Xintao Wu. "Few-shot Anomaly Detection and Classification Through Reinforced Data Selection."  In the Proceedings of the 22nd IEEE International Conference on Data Mining (ICDM), 2022.
@@ -15,7 +17,7 @@ author_profile: true
 
 - Kshitiz Tiwari, Shuhan Yuan, and Lu Zhang. "Robust Hate Speech Detection via Mitigating Spurious Correlations." In the Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (AACL-IJCNLP), Short Paper Track, 2022.
 
-- M.S. Vinay, Shuhan Yuan and Xintao Wu. "Contrastive Learning for Insider Threat Detection." In the Proceedings of the 27th International Conference on Database Systems for Advanced Applications (DASFAA), 2022. (short paper). [\[link\]](https://link.springer.com/chapter/10.1007/978-3-031-00123-9_32)
+- Vinay M.S., Shuhan Yuan and Xintao Wu. "Contrastive Learning for Insider Threat Detection." In the Proceedings of the 27th International Conference on Database Systems for Advanced Applications (DASFAA), 2022. (short paper). [\[link\]](https://link.springer.com/chapter/10.1007/978-3-031-00123-9_32)
 
 - Depeng Xu, Shuhan Yuan, Yueyang Wang, Angela Uchechukwu Nwude, Lu Zhang, Anna Zajicek, and Xintao Wu. "Coded Hate Speech Detection via Contextual Information." In the Proceedings of 26th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2022. [\[link\]](https://link.springer.com/chapter/10.1007/978-3-031-05933-9_8)
 
