@@ -8,14 +8,14 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.teaching reversed %}
-  <!-- {% if forloop.first %}
-    {% include archive-single.html %}
-    {% continue %}
-  {% endif %} -->
-  {% if forloop.counter0 < 2 %}
+  {% if forloop.first %}
     {% include archive-single.html %}
     {% continue %}
   {% endif %}
+  <!-- {% if forloop.counter0 < 2 %}
+    {% include archive-single.html %}
+    {% continue %}
+  {% endif %} -->
   <div class="{{ include.type | default: "list" }}__item">
     <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
       <h2 class="archive__item-title" itemprop="headline">
