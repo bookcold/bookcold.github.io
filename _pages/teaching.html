@@ -8,7 +8,11 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.teaching reversed %}
-  {% if forloop.first %}
+  <!-- {% if forloop.first %}
+    {% include archive-single.html %}
+    {% continue %}
+  {% endif %} -->
+  {% if forloop.counter < 2 %}
     {% include archive-single.html %}
     {% continue %}
   {% endif %}
