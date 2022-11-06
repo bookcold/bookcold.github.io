@@ -11,8 +11,8 @@ author_profile: true
   {% if forloop.first %}
     {% include archive-single.html %}
     {% continue %}
-  {% endif %}
-  {% if forloop.counter0 ==1 %}
+  <!-- {% endif %} -->
+  {% elsif forloop.counter0 == 1 %}
     {% include archive-single.html %}
     {% continue %}
   {% endif %}
