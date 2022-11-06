@@ -68,7 +68,7 @@ More advanced books include [The Elements of Statistical Learning](https://hasti
 | Nov 8  | Clustering - I  | 
 | Nov 10  | Clustering - II |
 | Nov 15  | Recommender Systems | 
-| Nov 17  | Time Series Data | 
+| Nov 17  | Ethics | 
 | Nov 22  | Canceled | 
 | Nov 24  | Thanksgiving | 
 | Nov 29  | Project Presentation | 
