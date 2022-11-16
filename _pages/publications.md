@@ -13,7 +13,7 @@ author_profile: true
 
 - Xiao Han, Depeng Xu, Shuhan Yuan and Xintao Wu. "Few-shot Anomaly Detection and Classification Through Reinforced Data Selection."  In the Proceedings of the 22nd IEEE International Conference on Data Mining (ICDM), 2022.
 
-- Xingyi Zhao, Lu Zhang, Depeng Xu, and Shuhan Yuan. "Texual Adversarial Attacking as Combinatorial Optimization in a Reduced Search Space." In the Findings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP), Short Paper Track, 2022. [\[arxiv\]](https://arxiv.org/abs/2211.06571) [\[code\]](https://github.com/xingyizhao/TAMPERS)
+- Xingyi Zhao, Lu Zhang, Depeng Xu, and Shuhan Yuan. "Generating Textual Adversaries with Minimal Perturbation." In the Findings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP), Short Paper Track, 2022. [\[arxiv\]](https://arxiv.org/abs/2211.06571) [\[code\]](https://github.com/xingyizhao/TAMPERS)
 
 - Kshitiz Tiwari, Shuhan Yuan, and Lu Zhang. "Robust Hate Speech Detection via Mitigating Spurious Correlations." In the Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (AACL-IJCNLP), Short Paper Track, 2022.
 

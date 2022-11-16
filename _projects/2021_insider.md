@@ -34,6 +34,7 @@ Insiders are malicious people within organizations who abuse their authorized ac
 
 - Xiao Han, Depeng Xu, Shuhan Yuan and Xintao Wu. "Few-shot Anomaly Detection and Classification Through Reinforced Data Selection."  In the Proceedings of the 22nd IEEE International Conference on Data Mining (ICDM), 2022.
 
+- Xingyi Zhao, Lu Zhang, Depeng Xu, and Shuhan Yuan. "Generating Textual Adversaries with Minimal Perturbation." In the Findings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP), Short Paper Track, 2022. [\[arxiv\]](https://arxiv.org/abs/2211.06571) [\[code\]](https://github.com/xingyizhao/TAMPERS)
 
 ---
 
