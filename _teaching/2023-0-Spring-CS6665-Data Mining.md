@@ -63,10 +63,10 @@ Data mining aims at finding useful patterns in large data sets. This course will
 ## Grading
 - Homework (35%)
     - Six programming assignments
-- Course Project (35%)
+- Course Project (30%)
     - Students are required to participate in one [Kaggle competition](https://www.kaggle.com/competitions){:target="_blank"}.
     - The project will be evaluated based on the technical soundness, presentation, and final report.
-- Midterm Exam (30%)
+- Final Exam (35%)
     
 - Class Attendance
     - Class attendance is not mandatory but recommended.
