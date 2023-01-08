@@ -3,7 +3,7 @@ title: "CS 6665: Data Mining"
 collection: teaching
 type: "Spring 2022"
 permalink: /teaching/2022-spring-teaching/
-venue: "10:30 am to 11:45 am on TR Huntsman Hall 160"
+venue: "10:30 am to 11:45 am on TR, Huntsman Hall 160"
 ---
 
 *The information described here has not been finalized yet. This page will be updated frequently.*

@@ -1,7 +1,7 @@
 ---
 title: "CS 6665: Data Mining"
 collection: teaching
-type: "Spring 2022"
+type: "Spring 2023"
 permalink: /teaching/2023-spring-teaching/
 venue: "3:00 pm to 4:15 pm on TR, Old Main 117"
 ---
