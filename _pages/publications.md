@@ -5,13 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 
+### 2023
+
+- Xiao Han, Lu Zhang, Yongkai Wu, and Shuhan Yuan. "Achieving Counterfactual Fairness for Anomaly Detection."  In the Proceedings of the 27th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2023. [\[arxiv\]](https://arxiv.org/abs/2303.02318) [\[code\]](https://github.com/hanxiao0607/CFAD)
+
+
 ### 2022
 
-- Vinay M.S., Shuhan Yuan, and Xintao Wu. "Fraud Detection via Contrastive Positive Unlabeled Learning." In the Proceedings of the 2022 IEEE International Conference on Big Data (BigData), 2022.
+- Vinay M.S., Shuhan Yuan, and Xintao Wu. "Fraud Detection via Contrastive Positive Unlabeled Learning." In the Proceedings of the 2022 IEEE International Conference on Big Data (BigData), 2022. [\[link\]](https://ieeexplore.ieee.org/document/10020693)
 
-- He Cheng, Depeng Xu, and Shuhan Yuan. "Sequential Anomaly Detection with Local and Global Explanations." In the Proceedings of the 2022 IEEE International Conference on Big Data (BigData), 2022.
+- He Cheng, Depeng Xu, and Shuhan Yuan. "Sequential Anomaly Detection with Local and Global Explanations." In the Proceedings of the 2022 IEEE International Conference on Big Data (BigData), 2022. [\[link\]](https://ieeexplore.ieee.org/document/10020990) [\[code\]](https://github.com/Serendipity618/GLEAD)
 
-- Xiao Han, Depeng Xu, Shuhan Yuan and Xintao Wu. "Few-shot Anomaly Detection and Classification Through Reinforced Data Selection."  In the Proceedings of the 22nd IEEE International Conference on Data Mining (ICDM), 2022.
+- Xiao Han, Depeng Xu, Shuhan Yuan, and Xintao Wu. "Few-shot Anomaly Detection and Classification Through Reinforced Data Selection."  In the Proceedings of the 22nd IEEE International Conference on Data Mining (ICDM), 2022. [\[link\]](https://ieeexplore.ieee.org/document/10027786) [\[code\]](https://github.com/hanxiao0607/FADS)
 
 - Xingyi Zhao, Lu Zhang, Depeng Xu, and Shuhan Yuan. "Generating Textual Adversaries with Minimal Perturbation." In the Findings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP), Short Paper Track, 2022. [\[arxiv\]](https://arxiv.org/abs/2211.06571) [\[code\]](https://github.com/xingyizhao/TAMPERS)
 
