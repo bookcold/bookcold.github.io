@@ -7,6 +7,11 @@ author_profile: true
 
 ### 2023
 
+- Xiao Han, Lu Zhang, Yongkai Wu, and Shuhan Yuan. "On Root Cause Localization and Anomaly Mitigation through Causal Inference." the Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (CIKM), 2023. [\[arxiv\]](https://arxiv.org/abs/2212.04031) [\[code\]](https://github.com/hanxiao0607/RootCLAM)
+
+- He Cheng, Depeng Xu, and Shuhan Yuan. "Explainable Sequential Anomaly Detection via Prototypes." In the Proceedings of the 2023 International Conference on Neural Networks (IJCNN), 2023. [\[link\]](https://doi.org/10.1109/IJCNN54540.2023.10191703) [\[code\]](https://github.com/Serendipity618/ESAD) 
+
+
 - Xiao Han, Lu Zhang, Yongkai Wu, and Shuhan Yuan. "Achieving Counterfactual Fairness for Anomaly Detection."  In the Proceedings of the 27th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2023. [\[arxiv\]](https://arxiv.org/abs/2303.02318) [\[code\]](https://github.com/hanxiao0607/CFAD)
 
 
