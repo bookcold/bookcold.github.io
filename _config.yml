@@ -247,14 +247,14 @@ defaults:
       layout: single
       author_profile: true
       share: false
-  # _tutorials
-  - scope:
-      path: ""
-      type: tutorials
-    values:
-      layout: single
-      author_profile: true
-      share: false
+  # # _tutorials
+  # - scope:
+  #     path: ""
+  #     type: tutorials
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: false
 
 # Sass/SCSS
 sass:
