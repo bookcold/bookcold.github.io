@@ -1,5 +1,5 @@
 ---
-title: "Deep learning for insider threat detection: Review, challenges and opportunities"
+title: "Tutorial: Trustworthy Anomaly Detection"
 collection: publications
 permalink: /publications/SDM24-tutorial/
 date: 2024-04
