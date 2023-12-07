@@ -7,9 +7,9 @@ author_profile: true
 
 ### 2023
 
-- Vinay M.S., Shuhan Yuan, and Xintao Wu. "Robust Fraud Detection via Supervised Contrastive Learning." In the Proceedings of the 2023 IEEE International Conference on Big Data (BigData), Sorrento, Italy, Dec 15-18, 2023. 
+- Vinay M.S., Shuhan Yuan, and Xintao Wu. "Robust Fraud Detection via Supervised Contrastive Learning." In the Proceedings of the 2023 IEEE International Conference on Big Data (BigData), 2023. 
 
-- Xiao Han, Shuhan Yuan, and Mohamed Trabelsi. "LogGPT: Log Anomaly Detection via GPT." In the Proceedings of the 2023 IEEE International Conference on Big Data (BigData), Sorrento, Italy, Dec 15-18, 2023. (short paper)  
+- Xiao Han, Shuhan Yuan, and Mohamed Trabelsi. "LogGPT: Log Anomaly Detection via GPT." In the Proceedings of the 2023 IEEE International Conference on Big Data (BigData), 2023. (short paper)  
 
 - Xiao Han, Lu Zhang, Yongkai Wu, and Shuhan Yuan. "On Root Cause Localization and Anomaly Mitigation through Causal Inference." In the Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (CIKM), 2023. [\[arxiv\]](https://arxiv.org/abs/2212.04031) [\[code\]](https://github.com/hanxiao0607/RootCLAM)
 
