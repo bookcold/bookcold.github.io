@@ -187,9 +187,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  # tutorials:
-  #   output: true
-  #   permalink: /:collection/:path/
+  tutorials:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -247,14 +247,14 @@ defaults:
       layout: single
       author_profile: true
       share: false
-  # # _tutorials
-  # - scope:
-  #     path: ""
-  #     type: tutorials
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: false
+  # _tutorials
+  - scope:
+      path: ""
+      type: tutorials
+    values:
+      layout: single
+      author_profile: true
+      share: false
 
 # Sass/SCSS
 sass:
