@@ -187,8 +187,8 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  tutorials:
-    output: true
+  talks:
+    output: false
     permalink: /:collection/:path/
 
 
@@ -247,14 +247,15 @@ defaults:
       layout: single
       author_profile: true
       share: false
-  # _tutorials
+  # _talks
   - scope:
       path: ""
-      type: tutorials
+      type: talks
     values:
-      layout: single
+      layout: talk
       author_profile: true
       share: false
+
 
 # Sass/SCSS
 sass:
