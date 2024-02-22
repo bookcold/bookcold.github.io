@@ -10,7 +10,7 @@ author_profile: true
 - Xiao Han, Ph.D. student, Fall 2020 - 
 - He Cheng, Ph.D. student, Fall 2020 -
 - Xingyi Zhao, Ph.D. student, Fall 2021 -
-- Kevin Park, Master's student Spring 2024 - 
+- Kevin Park, Master's student, Spring 2024 - 
 
 
 ### Alumni 
