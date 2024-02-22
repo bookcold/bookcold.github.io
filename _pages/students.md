@@ -15,5 +15,5 @@ author_profile: true
 
 ### Alumni 
 - Kevin Vulcano, Utah State University, Master Graduated 2023
-- Haixuan Guo, Utah State University, Master Graduate 2021 (First employment: Apple Inc.)
-- Peiyu Li, Utah State University, Master Graduate 2021 (First employment: PhD student at the USU)
+- Haixuan Guo, Utah State University, Master Graduated 2021 (First employment: Apple Inc.)
+- Peiyu Li, Utah State University, Master Graduated 2021 (First employment: PhD student at the USU)
