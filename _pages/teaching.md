@@ -5,6 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
+- Spring 2024
+    - CS 6665: Data Mining
+
 - Fall 2023 
     - CS 5665: Introduction to Data Science
     - CS 4320: Introduction to Machine Learning

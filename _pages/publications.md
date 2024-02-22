@@ -5,11 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
+### 2024
+
+- He Cheng and Shuhan Yuan. "Backdoor Attack against One-Class Sequential Anomaly Detection Models". In the Proceedings of the 2024 Pacific-Asia International Conference on Knowledge Discovery and Data Mining (PAKDD), 2024. [\[arxiv\]](https://arxiv.org/abs/2402.10283) [\[code\]](https://github.com/Serendipity618/BA-OCAD)
+
+- Vinay M.S., Shuhan Yuan, and Xintao Wu. "Contrastive Learning for Fraud Detection from Noisy Labels". In the Proceedings of the 40th IEEE International Conference on Data Engineering (ICDE), 2024.
+
 ### 2023
 
-- Vinay M.S., Shuhan Yuan, and Xintao Wu. "Robust Fraud Detection via Supervised Contrastive Learning." In the Proceedings of the 2023 IEEE International Conference on Big Data (BigData), 2023. 
+- Vinay M.S., Shuhan Yuan, and Xintao Wu. "Robust Fraud Detection via Supervised Contrastive Learning." In the Proceedings of the 2023 IEEE International Conference on Big Data (BigData), 2023. [\[arxiv\]](https://arxiv.org/abs/2308.10055)
 
-- Xiao Han, Shuhan Yuan, and Mohamed Trabelsi. "LogGPT: Log Anomaly Detection via GPT." In the Proceedings of the 2023 IEEE International Conference on Big Data (BigData), 2023. (short paper) [\[arxiv\]](https://arxiv.org/abs/2309.14482)
+- Xiao Han, Shuhan Yuan, and Mohamed Trabelsi. "LogGPT: Log Anomaly Detection via GPT." In the Proceedings of the 2023 IEEE International Conference on Big Data (BigData), 2023. (short paper) [\[arxiv\]](https://arxiv.org/abs/2309.14482)  [\[code\]](https://github.com/hanxiao0607/LogGPT)
 
 - Xiao Han, Lu Zhang, Yongkai Wu, and Shuhan Yuan. "On Root Cause Localization and Anomaly Mitigation through Causal Inference." In the Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (CIKM), 2023. [\[arxiv\]](https://arxiv.org/abs/2212.04031) [\[code\]](https://github.com/hanxiao0607/RootCLAM)
 
