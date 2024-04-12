@@ -7,6 +7,8 @@ author_profile: true
 
 ### 2024
 
+- [Tutorial: Trustworthy Anomaly Detection. In SIAM International Conference on Data Mining (SDM24), 2024](https://yuan.shuhan.org/talks/SDM24/)
+
 - Farsheed Haque, Depeng Xu, and Shuhan Yuan. "Discovering and Mitigating Indirect Bias in Attention-Based Model Explanations". In the Findings of 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2024.
 
 - He Cheng and Shuhan Yuan. "Backdoor Attack against One-Class Sequential Anomaly Detection Models". In the Proceedings of the 2024 Pacific-Asia International Conference on Knowledge Discovery and Data Mining (PAKDD), 2024. [\[arxiv\]](https://arxiv.org/abs/2402.10283) [\[code\]](https://github.com/Serendipity618/BA-OCAD)
