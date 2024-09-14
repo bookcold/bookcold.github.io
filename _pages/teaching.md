@@ -5,6 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
+- Fall 2024
+    - CS 5080: Data Mining
+    - CS 4320: Introduction to Machine Learning
+
 - Spring 2024
     - CS 6665: Data Mining
 
