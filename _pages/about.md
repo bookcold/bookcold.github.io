@@ -12,6 +12,5 @@ I am a tenure-track assistant professor at the Computer Science Department, Utah
 
 My current research generally lies in data mining and machine learning, with a focus on anomaly detection in cyberspace. The main goal of my research in recent years is to develop responsible anomaly detection models that are capable of identifying and mitigating potential abnormal behavior and threats in digital environments with the consideration of ensuring the explainability, robustness, and fairness in the loop.
 
-<!-- **Research Interests**: Deep learning and its applications in anomaly detection and natural language processing. -->
 
 <!-- <span style="color:red">**Openings**: I am looking for highly-motivated Ph.D. students (fully funded) and visiting Ph.D. students to work with me on data mining and machine learning. Please send me your CV if you are interested. [Details]({% link _pages/hiring.md%}). </span> -->
