@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+### 2025
+
+-  Xiao Han, Saima Absar, Lu Zhang, and Shuhan Yuan. ``Root Cause Analysis of Anomalies in Multivariate Time Series through Granger Causal Discovery''. The Thirteenth International Conference on Learning Representations (ICLR). 2025.
+
+- He Cheng, Depeng Xu, and Shuhan Yuan. ``Backdoor Attack against Log Anomaly Detection Models''. In Companion Proceedings of the 2025 ACM Web Conference, 2025. (Short Paper Track)
+
 ### 2024
 
 - He Cheng, Depeng Xu, Shuhan Yuan, and Xintao Wu. "Achieving Counterfactual Explanation for Sequence Anomaly Detection". In the Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2024.
