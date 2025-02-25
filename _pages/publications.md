@@ -13,7 +13,7 @@ author_profile: true
 
 ### 2024
 
-- He Cheng, Depeng Xu, Shuhan Yuan, and Xintao Wu. "Achieving Counterfactual Explanation for Sequence Anomaly Detection". In the Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2024.
+- He Cheng, Depeng Xu, Shuhan Yuan, and Xintao Wu. "Achieving Counterfactual Explanation for Sequence Anomaly Detection". In the Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2024. [\[code\]](https://github.com/Serendipity618/CFDet)
 
 - Xingyi Zhao, Depeng Xu, and Shuhan Yuan. "Defense against Backdoor Attack on Pre-trained Language Models via Head Pruning and Attention Normalization". In the Proceedings of the 41st International Conference on Machine Learning (ICML), 2024. [link](https://icml.cc/virtual/2024/poster/35148)
 
