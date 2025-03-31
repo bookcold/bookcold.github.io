@@ -13,7 +13,7 @@ author_profile: true
 
 ### Alumni 
 - He Cheng, Utah State University, Ph.D. Graduated 2024
-- Xiao Han, Utah State University, Ph.D. Graduated 2024 (Computer Science Department Outstanding Graduate Student -- Best Thesis) 
+- [Xiao Han](https://hanxiao0607.github.io/), Utah State University, Ph.D. Graduated 2024 (Computer Science Department Outstanding Graduate Student -- Best Thesis) 
 - Kevin Vulcano, Utah State University, Master Graduated 2023
 - Haixuan Guo, Utah State University, Master Graduated 2021 (First employment: Apple Inc.)
 - Peiyu Li, Utah State University, Master Graduated 2021 (First employment: PhD student at the USU)
