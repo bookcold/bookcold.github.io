@@ -7,9 +7,11 @@ author_profile: true
 
 ### 2025
 
+- He Cheng, Depeng Xu, and Shuhan Yuan. "BadSAD: Clean-Label Backdoor Attacks against Deep Semi-Supervised Anomaly Detection".  The 2025 IEEE International Conference on Big Data (BigData), 2025.
+
 - Xiao Han, Depeng Xu, Shuhan Yuan, and Xintao Wu. "Few-shot anomaly detection and classification through reinforced data selection with a combinatorial reward." Knowledge and Information Systems (2025): 1-26. [link](https://link.springer.com/article/10.1007/s10115-025-02572-6)
 
-- Thomas Carr, Depeng Xu, Shuhan Yuan, and Aidong Lu. "Privacy-centric Deep Motion Retargeting for Anonymization of Skeleton-Based Motion Visualization". The International Conference on Computer Vision (ICCV), 2025.
+- Thomas Carr, Depeng Xu, Shuhan Yuan, and Aidong Lu. "Privacy-centric Deep Motion Retargeting for Anonymization of Skeleton-Based Motion Visualization". The International Conference on Computer Vision (ICCV), 2025. [arxiv](https://arxiv.org/abs/2405.05428)
 
 -  Xiao Han, Saima Absar, Lu Zhang, and Shuhan Yuan. "Root Cause Analysis of Anomalies in Multivariate Time Series through Granger Causal Discovery". The Thirteenth International Conference on Learning Representations (ICLR). 2025. [link](https://openreview.net/forum?id=k38Th3x4d9) [\[code\]](https://github.com/hanxiao0607/AERCA)
 

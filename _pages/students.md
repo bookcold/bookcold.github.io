@@ -8,15 +8,21 @@ author_profile: true
 <!-- ### Students -->
 
 - Xingyi Zhao, Ph.D. student, Fall 2021 -
-- Kevin Park, Master's student, Spring 2024 - 
+- Brandon Wood, Master's student, Fall 2025 - 
 
 
 ### Alumni 
-- He Cheng, Utah State University, Ph.D. Graduated 2024
-- [Xiao Han](https://hanxiao0607.github.io/), Utah State University, Ph.D. Graduated 2024 (Computer Science Department Outstanding Graduate Student -- Best Thesis) 
+- [He Cheng](https://serendipity618.github.io/), Utah State University, Ph.D. Graduated 2024
+    - First employment: Postdoc in the Department of Biomedical Informatics at the University of Colorado Anschutz Medical Campus
+- [Xiao Han](https://hanxiao0607.github.io/), Utah State University, Ph.D. Graduated 2024 
+    - Computer Science Department Outstanding Graduate Student -- Best Thesis
+    - First employment: Applied Scientist at Twitch.
+- Kevin Park, Utah State University, Master Graduated 2025     
 - Kevin Vulcano, Utah State University, Master Graduated 2023
-- Haixuan Guo, Utah State University, Master Graduated 2021 (First employment: Apple Inc.)
-- Peiyu Li, Utah State University, Master Graduated 2021 (First employment: PhD student at the USU)
+- Haixuan Guo, Utah State University, Master Graduated 2021
+    - First employment: Apple Inc.
+- Peiyu Li, Utah State University, Master Graduated 2021 
+    - First employment: PhD student at USU
 
 
 
