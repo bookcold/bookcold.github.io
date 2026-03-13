@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+### 2026
+
+- Xingyi Zhao, Tian Xie, Xiaojun Qi, Depeng Xu, and Shuhan Yuan. "Don't Shift the Trigger: Robust Gradient Ascent for Backdoor Unlearning". The Fourteenth International Conference on Learning Representations (ICLR), 2026. [link](https://openreview.net/forum?id=voqtsqYS6j)
+
+- Xiao Han, Lu Zhang, Yongkai Wu, and Shuhan Yuan. "Algorithmic Recourse in Abnormal Multivariate Time Series". Transactions on Machine Learning Research (TMLR), 2026. [link](https://openreview.net/forum?id=kzxFc2Suo5)
+
 ### 2025
 
 - He Cheng, Depeng Xu, and Shuhan Yuan. "BadSAD: Clean-Label Backdoor Attacks against Deep Semi-Supervised Anomaly Detection".  The 2025 IEEE International Conference on Big Data (BigData), 2025.

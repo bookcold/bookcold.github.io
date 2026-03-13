@@ -5,6 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
+- Spring 2026
+    - CS 5665: Machine Learning for Data Science
+
 - Fall 2025
     - CS 5080: Data Mining
     - CS 4320: Applied Machine Learning
