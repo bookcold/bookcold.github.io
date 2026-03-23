@@ -12,7 +12,7 @@ Shuhan Yuan is an Assistant Professor in the School of Computing at Utah State U
 
 His research in AI for cybersecurity includes anomaly detection, insider threat detection, social network fraud detection, and root‑cause analysis in complex cyber systems, advancing approaches that move beyond detection toward explanation, diagnosis, and mitigation. His work on AI security addresses adversarial robustness, backdoor attacks and defenses, ethics, and privacy in modern machine learning systems, including large language models.
 
-His publications have appeared at leading venues such as ICLR, ICML, ICCV, CIKM, AAAI, and ICDE, and his research is supported by an NSF SaTC award, where he serves as PI. Dr. Yuan is also actively involved in the research community as an associate editor, conference organizer, and reviewer. 
+<!-- His publications have appeared at leading venues such as ICLR, ICML, ICCV, CIKM, AAAI, and ICDE, and his research is supported by an NSF SaTC award, where he serves as PI. Dr. Yuan is also actively involved in the research community as an associate editor, conference organizer, and reviewer.  -->
 
 Dr. Yuan received his PhD in Computer Science from Tongji University in 2017 and subsequently worked as a postdoctoral researcher at the University of Arkansas from 2018 to 2019.
 
