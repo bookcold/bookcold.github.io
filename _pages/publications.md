@@ -15,7 +15,7 @@ author_profile: true
 
 ### 2025
 
-- He Cheng, Depeng Xu, and Shuhan Yuan. "BadSAD: Clean-Label Backdoor Attacks against Deep Semi-Supervised Anomaly Detection".  The 2025 IEEE International Conference on Big Data (BigData), 2025.
+- He Cheng, Depeng Xu, and Shuhan Yuan. "BadSAD: Clean-Label Backdoor Attacks against Deep Semi-Supervised Anomaly Detection".  The 2025 IEEE International Conference on Big Data (BigData), 2025. [link](https://www.computer.org/csdl/proceedings-article/bigdata/2025/11402072/2eDsF562cbS)
 
 - Xiao Han, Depeng Xu, Shuhan Yuan, and Xintao Wu. "Few-shot anomaly detection and classification through reinforced data selection with a combinatorial reward." Knowledge and Information Systems (2025): 1-26. [link](https://link.springer.com/article/10.1007/s10115-025-02572-6)
 
