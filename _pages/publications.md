@@ -7,6 +7,8 @@ author_profile: true
 
 ### 2026
 
+- Shuhan Yuan and Lu Zhang. "A Causal Inference Framework for Actionable Fault Diagnosis and Mitigation". In Companion Proceedings of the Nineteenth ACM International Conference on Web Search and Data Mining, 2026. (WSDM Workshop on Benchmarking Causal Models) [link](https://dl.acm.org/doi/10.1145/3779211.3793186) [\[slides\]](https://drive.google.com/file/d/1bbQVHxhWIsuAprAyIcwSzzth4k0xzx06/view?usp=sharing)
+
 - Xingyi Zhao, Tian Xie, Xiaojun Qi, Depeng Xu, and Shuhan Yuan. "Don't Shift the Trigger: Robust Gradient Ascent for Backdoor Unlearning". The Fourteenth International Conference on Learning Representations (ICLR), 2026. [link](https://openreview.net/forum?id=voqtsqYS6j)
 
 - Xiao Han, Lu Zhang, Yongkai Wu, and Shuhan Yuan. "Algorithmic Recourse in Abnormal Multivariate Time Series". Transactions on Machine Learning Research (TMLR), 2026. [link](https://openreview.net/forum?id=kzxFc2Suo5)
