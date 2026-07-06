@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the School of Computing at Utah State University. My research is rooted in **responsible AI**, with a focus on building machine learning systems that are effective, explainable, fair, and robust in high-stakes settings. Much of this work centers on trustworthy anomaly detection, where the goal is not only to identify unusual behavior accurately, but also to make AI decisions more transparent, reliable, and ethically deployable.
+I am an Associate Professor in the School of Computing at Utah State University. My research is rooted in **responsible AI**, with a focus on building machine learning systems that are effective, explainable, fair, and robust in high-stakes settings. Much of this work centers on trustworthy anomaly detection, where the goal is not only to identify unusual behavior accurately, but also to make AI decisions more transparent, reliable, and ethically deployable.
 
 A major domain of my research is **AI for cybersecurity**, particularly the detection of insider threats and other malicious behaviors in cyberspace. By developing advanced machine learning models, this work aims to address practical challenges in real-world cyber defense, such as limited labels, noisy data, class imbalance, and adaptive adversaries. The goal is to make AI-based threat detection more practical and dependable in real-world cyber defense settings.
 
